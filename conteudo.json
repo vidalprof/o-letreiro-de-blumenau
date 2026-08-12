@@ -1,0 +1,1870 @@
+{
+ "titulo": "O Letreiro de Blumenau",
+ "sub": "Língua Portuguesa · 5º ano · escrever certo o M antes de P e B",
+ "ano": "5º ano",
+ "prefixo": "lt",
+ "mascote": "pincel",
+ "mascoteNome": "Pincel",
+ "voz": "masculina",
+ "crachas": 6,
+ "fundo": "lt_fundo.png",
+ "convite": "<b>Quem vai pintar</b> hoje?",
+ "abertura": "O ajudante novo do Pincel pintou dezoito placas da Rua XV em um dia só — e trocou uma letra em quase todas. A padaria virou PADARIA CANPO BOM, a floricultura virou FLORES SENPRE VIVAS, e a cidade inteira está lendo errado. O Pincel já tem a tinta na mão, mas ficou com uma dúvida: qual letra é a certa? Conserte as placas com ele.",
+ "fim": "Rua XV inteira consertada — e olhe o que aconteceu: você acertou a letra antes de saber a regra, só de escutar a palavra. Ficou faltando uma placa, a maior de todas, lá no alto do Morro do Aipim. O Pincel diz que essa tem uma palavra que engana até adulto. Quer ver qual é?",
+ "mesa": "PEDAGOGO (até o 5º ano quem manda na mesa é o pedagogo, ver _padrao/RECEITA.md), com o ROTEIRISTA, o GAME DESIGNER, o DIRETOR DE ARTE e o ENGENHEIRO. Habilidade extraída do _curriculo/blumenau.txt (5º ano, Língua Portuguesa, Análise linguística/semiótica — ortografização).",
+ "conceitos": {
+  "objetivo1": "O som que sai pelo nariz",
+  "objetivo2": "Antes de P e de B mora o M",
+  "objetivo3": "Antes das outras letras vem o N",
+  "objetivo4": "Caçar o erro no letreiro",
+  "objetivo5": "Pintar o letreiro certo"
+ },
+ "curriculo": {
+  "objetivo1": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas",
+  "objetivo2": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas",
+  "objetivo3": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas",
+  "objetivo4": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas",
+  "objetivo5": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas"
+ },
+ "fases": [
+  {
+   "id": "f01",
+   "mec": "conserte-o-erro",
+   "selo": "A PLACA DA PADARIA",
+   "enunciado": "O ajudante novo pintou as placas da Rua XV. Esta ficou estranha e a dona não sabe por quê. Ache o pedaço errado e conserte.",
+   "dica": "Leia a placa em voz alta, devagar. Onde a sua boca faz um som diferente do que está escrito?",
+   "conceito": "objetivo1",
+   "dados": [
+    {
+     "selo": "PADARIA DA RUA XV",
+     "cab": "O LETREIRO PINTADO ONTEM",
+     "bal": "A dona pediu <b>PADARIA CAMPO BOM</b>. O ajudante pintou assim. Ache o pedaço errado.",
+     "pecas": [
+      "PADARIA",
+      "CANPO",
+      "BOM"
+     ],
+     "erro": 1,
+     "certa": "CAMPO",
+     "ops": [
+      "CAMPO",
+      "CAMPU",
+      "CANMPO"
+     ],
+     "por": "É <b>CAMPO</b>, com M. Guarde esta placa: no fim você vai saber dizer por quê.",
+     "dicas": [
+      "Diga a palavra em voz alta: <b>cam-po</b>. Escute o pedacinho antes do P.",
+      "Uma letra ali está no lugar da outra. É a letra que vem <b>antes do P</b>.",
+      "Era esta: eu marquei para você. Agora escolha o jeito certo."
+     ],
+     "dicas2": [
+      "Duas opções mudam a última letra; uma muda a letra do meio. Ouça: <b>cam-po</b>.",
+      "O fim da palavra é <b>-PO</b>, com O. O que muda mesmo é a letra antes do P.",
+      "Era <b>CAMPO</b>. Troquei para você ver na placa."
+     ]
+    },
+    {
+     "selo": "FLORICULTURA DO GARCIA",
+     "cab": "A SEGUNDA PLACA",
+     "bal": "Esta é da floricultura do bairro Garcia. Ache o pedaço errado.",
+     "pecas": [
+      "FLORES",
+      "SENPRE",
+      "VIVAS"
+     ],
+     "erro": 1,
+     "certa": "SEMPRE",
+     "ops": [
+      "SEMPRE",
+      "SENPRE",
+      "SEMPRI"
+     ],
+     "por": "É <b>SEMPRE</b>, com M antes do P.",
+     "dicas": [
+      "Fale devagar: <b>sem-pre</b>. Repare no som antes do P.",
+      "O erro está na mesma família do erro da padaria.",
+      "Marquei o pedaço: agora é só escolher o certo."
+     ],
+     "dicas2": [
+      "Uma opção troca o fim da palavra; a outra troca a letra do meio.",
+      "O fim é <b>-PRE</b>. Olhe a letra que vem antes do P.",
+      "Era <b>SEMPRE</b>. Troquei para você ver."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f02",
+   "mec": "bater-silabas",
+   "selo": "O SOM QUE VEM DO NARIZ",
+   "enunciado": "Bata uma vez para cada pedaço da palavra. Ponha o dedo no nariz enquanto fala: você vai sentir ele tremer.",
+   "dica": "O nariz treme no pedaço que termina com o som de M ou de N. Fale bem devagar.",
+   "conceito": "objetivo1",
+   "dados": [
+    {
+     "pal": "CAMPO",
+     "sil": [
+      "CAM",
+      "PO"
+     ],
+     "voz": "cam... po",
+     "fig": "lt_campo",
+     "d": [
+      "Diga <b>CAM-PO</b> devagar e bata uma vez para cada pedaço.",
+      "São dois pedaços. O primeiro sai pelo nariz: <b>cam</b>.",
+      "São <b>2</b> batidas: cam... po. Elas já estão aí — toque em Pronto."
+     ]
+    },
+    {
+     "pal": "BOMBA",
+     "sil": [
+      "BOM",
+      "BA"
+     ],
+     "voz": "bom... ba",
+     "fig": "lt_bomba",
+     "d": [
+      "Ponha a mão no nariz e diga <b>BOM-BA</b>. Sentiu o tremor?",
+      "O tremor está no primeiro pedaço, que é o que termina no som do nariz.",
+      "São <b>2</b> batidas: bom... ba."
+     ]
+    },
+    {
+     "pal": "TAMBOR",
+     "sil": [
+      "TAM",
+      "BOR"
+     ],
+     "voz": "tam... bor",
+     "fig": "lt_tambor",
+     "d": [
+      "Diga <b>TAM-BOR</b> batendo na mesa, como se fosse o próprio tambor.",
+      "Dois pedaços, e o nariz treme no primeiro.",
+      "São <b>2</b> batidas: tam... bor."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f03",
+   "mec": "escolher",
+   "selo": "QUAL PLACA ESTÁ CERTA?",
+   "enunciado": "A gráfica mandou duas provas de cada placa. Escolha a que está escrita do jeito certo.",
+   "dica": "Fale as duas em voz alta. As duas soam igual — então a diferença está na LETRA, não no som.",
+   "conceito": "objetivo1",
+   "dados": [
+    {
+     "p": "A academia da esquina quer o nome dela numa placa. Qual está certa?",
+     "c": "OMBRO A OMBRO",
+     "e": [
+      "ONBRO A ONBRO",
+      "OMBRU A OMBRU"
+     ],
+     "d": [
+      "Diga <b>om-bro</b> e escute o pedaço antes do B.",
+      "Você já viu esse mesmo pedaço em CAMPO e em SEMPRE.",
+      "É <b>OMBRO A OMBRO</b>. Toque nela para seguir."
+     ]
+    },
+    {
+     "p": "A loja de instrumentos do centro. Qual placa está certa?",
+     "c": "CASA DO TAMBOR",
+     "e": [
+      "CASA DO TANBOR",
+      "CASA DO TAMBÔR"
+     ],
+     "d": [
+      "Fale <b>tam-bor</b> devagar, do jeito que você bateu na fase passada.",
+      "O pedaço antes do B é o mesmo de BOMBA.",
+      "É <b>CASA DO TAMBOR</b>."
+     ]
+    },
+    {
+     "p": "A oficina que conserta bomba d'água. Qual placa está certa?",
+     "c": "BOMBA D'ÁGUA",
+     "e": [
+      "BONBA D'ÁGUA",
+      "BOMBA D'AGUA"
+     ],
+     "d": [
+      "Diga <b>bom-ba</b>. Que letra fecha o primeiro pedaço?",
+      "É a mesma letra que fechava o primeiro pedaço de CAMPO.",
+      "É <b>BOMBA D'ÁGUA</b> — e o A leva acento."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "TITULO": "A PROVA DA GRÁFICA",
+    "FECHO": "As três placas saíram certas da gráfica!"
+   }
+  },
+  {
+   "id": "f04",
+   "mec": "letras-escondidas",
+   "selo": "FALTA UMA LETRA",
+   "enunciado": "O ajudante deixou um buraco em cada palavra. Leve a letra certa até ele.",
+   "dica": "Toque no alto-falante e ouça a palavra inteira antes de escolher.",
+   "conceito": "objetivo1",
+   "dados": [
+    {
+     "pal": "CAMPO",
+     "esc": "CA_PO",
+     "extra": [
+      "N",
+      "L"
+     ],
+     "img": "lt_campo",
+     "voz": "campo",
+     "d": [
+      "Diga a palavra devagar e escute o nariz: <b>cam-po</b>. Que letra falta antes do P?",
+      "Deixei só duas na bandeja. Escute de novo: <b>cam-po</b>.",
+      "É o <b>M</b>. Ele está aceso — toque nele para seguir."
+     ]
+    },
+    {
+     "pal": "BOMBA",
+     "esc": "BO_BA",
+     "extra": [
+      "N",
+      "T"
+     ],
+     "img": "lt_bomba",
+     "voz": "bomba",
+     "d": [
+      "Ouça a palavra de novo e repare no que vem antes do <b>B</b>.",
+      "Ficaram duas na bandeja. Qual delas você ouviu?",
+      "É o <b>M</b>: ele está aceso."
+     ]
+    },
+    {
+     "pal": "SEMPRE",
+     "esc": "SE_PRE",
+     "extra": [
+      "N",
+      "R"
+     ],
+     "img": "lt_sempre",
+     "voz": "sempre",
+     "d": [
+      "<b>Sem-pre</b>. Escute o fim do primeiro pedaço.",
+      "É a mesma letra de CAMPO e de BOMBA.",
+      "É o <b>M</b>."
+     ]
+    },
+    {
+     "pal": "OMBRO",
+     "esc": "O_BRO",
+     "extra": [
+      "N",
+      "S"
+     ],
+     "img": "lt_ombro",
+     "voz": "ombro",
+     "d": [
+      "<b>Om-bro</b>: ponha a mão no ombro e diga.",
+      "Antes do B mora sempre a mesma letra.",
+      "É o <b>M</b>."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "LETXT": {
+     "selo": "A LETRA QUE FALTA",
+     "balao": "Leve a <b>letra certa</b> até o buraco da palavra.",
+     "hint": "Toque na letra, arraste, ou digite no teclado.",
+     "ouvir": "a palavra",
+     "fecho": "Você fechou todas as palavras da vitrine!"
+    }
+   }
+  },
+  {
+   "id": "f05",
+   "mec": "escolher",
+   "selo": "A MESMA LETRA, DE NOVO",
+   "enunciado": "Mais placas chegaram da gráfica. Escolha a que está certa — e repare que a letra é sempre a mesma.",
+   "dica": "Você já fez isso na prova da gráfica. Olhe a letra antes do P ou do B.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "p": "A loja de bicicletas quer TEMPO BOM na placa. Qual está certa?",
+     "c": "TEMPO BOM",
+     "e": [
+      "TENPO BOM",
+      "TEMPU BOM"
+     ],
+     "d": [
+      "Fale <b>tem-po</b> devagar.",
+      "É a mesma letra de CAMPO e de SEMPRE.",
+      "É <b>TEMPO BOM</b>."
+     ]
+    },
+    {
+     "p": "A sorveteria da praça. Qual placa está certa?",
+     "c": "SOMBRA FRESCA",
+     "e": [
+      "SONBRA FRESCA",
+      "SOMBRAA FRESCA"
+     ],
+     "d": [
+      "Fale <b>som-bra</b> e escute o pedaço antes do B.",
+      "Antes de B mora sempre a mesma letra.",
+      "É <b>SOMBRA FRESCA</b>."
+     ]
+    },
+    {
+     "p": "A loja de lâmpadas do centro. Qual está certa?",
+     "c": "LÂMPADA ACESA",
+     "e": [
+      "LÂNPADA ACESA",
+      "LAMPADA ACESA"
+     ],
+     "d": [
+      "Fale <b>lâm-pa-da</b>: o primeiro pedaço tem chapéu no A.",
+      "Antes do P vem a letra que você já conhece — e o A leva acento.",
+      "É <b>LÂMPADA ACESA</b>."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "TITULO": "A SEGUNDA REMESSA",
+    "FECHO": "Mais três placas conferidas!"
+   }
+  },
+  {
+   "id": "f06",
+   "mec": "digitar",
+   "selo": "ESCREVA O NOME DA LOJA",
+   "enunciado": "O Pincel vai dizer o nome. Escreva do jeito certo — pode usar o teclado da tela ou o teclado de verdade.",
+   "dica": "Fale a palavra baixinho antes de escrever. O pedaço do nariz vem antes do P ou do B.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "img": "lt_campo",
+     "palavra": "CAMPO",
+     "pista": "O lugar aberto onde o time do bairro joga bola.",
+     "dic": "Diga devagar: <b>CAM-PO</b>."
+    },
+    {
+     "img": "lt_bomba",
+     "palavra": "BOMBA",
+     "pista": "A máquina que puxa a água do poço.",
+     "dic": "<b>BOM-BA</b>: escute a letra que fecha o primeiro pedaço."
+    },
+    {
+     "img": "lt_tambor",
+     "palavra": "TAMBOR",
+     "pista": "O instrumento que a banda bate no desfile.",
+     "dic": "<b>TAM-BOR</b>."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Escreva o nome da loja, letra por letra.",
+    "FECHO": "Os três nomes já podem ir para a placa!"
+   }
+  },
+  {
+   "id": "f07",
+   "mec": "completar",
+   "selo": "O ANÚNCIO DO JORNAL",
+   "enunciado": "O jornal do bairro perdeu uma palavra de cada anúncio. Escolha a que fecha a frase.",
+   "dica": "Leia a frase inteira em voz alta antes de escolher — a palavra que falta tem que soar bem ali.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "ante": "Conserto de ",
+     "dep": " d'água, atendo no mesmo dia.",
+     "cer": "bomba",
+     "out": [
+      "bonba",
+      "bomma"
+     ],
+     "dic": "Diga <b>bom-ba</b> e escolha a que tem a letra do nariz antes do B."
+    },
+    {
+     "ante": "Flores frescas ",
+     "dep": " na porta do mercado.",
+     "cer": "sempre",
+     "out": [
+      "senpre",
+      "semppre"
+     ],
+     "dic": "<b>Sem-pre</b>: uma letra só antes do P."
+    },
+    {
+     "ante": "Aulas de ",
+     "dep": " para crianças, aos sábados.",
+     "cer": "tambor",
+     "out": [
+      "tanbor",
+      "tambour"
+     ],
+     "dic": "É o instrumento que você bateu lá atrás: <b>tam-bor</b>."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Toque na palavra que <b>completa</b> o anúncio.",
+    "DEPOIS": "Leia o anúncio inteiro antes de escolher.",
+    "FECHO": "Os três anúncios já podem ir para o jornal!"
+   }
+  },
+  {
+   "id": "f08",
+   "mec": "caca-palavras",
+   "selo": "AS PALAVRAS DA VITRINE",
+   "enunciado": "Cinco palavras da vitrine se esconderam no quadro. Toque na primeira e na última letra de cada uma.",
+   "dica": "Todas as cinco têm a mesma letra antes do P ou do B. Procure por ela.",
+   "conceito": "objetivo2",
+   "dados": [
+    "CAMPO",
+    "BOMBA",
+    "SEMPRE",
+    "TAMBOR",
+    "OMBRO"
+   ],
+   "dadosExtra": {
+    "TITULO": "A VITRINE DAS PALAVRAS",
+    "PALDEF": {
+     "CAMPO": "Lugar aberto onde o time do bairro joga bola.",
+     "BOMBA": "Máquina que puxa a água do poço.",
+     "SEMPRE": "O contrário de nunca.",
+     "TAMBOR": "Instrumento que a banda bate no desfile.",
+     "OMBRO": "A parte do corpo onde a mochila se apoia."
+    },
+    "MODO": "definicoes"
+   }
+  },
+  {
+   "id": "f09",
+   "mec": "cruzadinha",
+   "selo": "A CRUZADINHA DO PINCEL",
+   "enunciado": "Cada dica é uma palavra que ele já pintou em alguma placa da cidade.",
+   "dica": "Se travar, lembre da placa onde você viu a palavra.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "p": "CAMPO",
+     "ac": "CAMPO",
+     "r": 0,
+     "c": 0,
+     "pLin": 0,
+     "pCol": 1,
+     "n": 1,
+     "d": "Lugar aberto onde o time do bairro joga bola."
+    },
+    {
+     "p": "BOMBA",
+     "ac": "BOMBA",
+     "r": 0,
+     "c": 4,
+     "pLin": 1,
+     "pCol": 0,
+     "n": 2,
+     "d": "Máquina que puxa a água do poço."
+    },
+    {
+     "p": "OMBRO",
+     "ac": "OMBRO",
+     "r": 4,
+     "c": 2,
+     "pLin": 0,
+     "pCol": 1,
+     "n": 3,
+     "d": "A parte do corpo onde a mochila se apoia."
+    }
+   ],
+   "dadosExtra": {
+    "BANCO": "ABCMOPRSU"
+   }
+  },
+  {
+   "id": "f10",
+   "mec": "forca",
+   "selo": "A PLACA COBERTA",
+   "enunciado": "O pano cobriu a placa nova. Descubra a palavra letra por letra.",
+   "dica": "Comece pelas vogais: elas aparecem em quase toda palavra.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "p": "TAMBEM",
+     "ac": "TAMBÉM",
+     "d": "A palavra que a gente usa para dizer 'eu faço isso também'."
+    },
+    {
+     "p": "CAMPEAO",
+     "ac": "CAMPEÃO",
+     "d": "Quem ganhou o campeonato de futebol do bairro."
+    },
+    {
+     "p": "BOMBEIRO",
+     "ac": "BOMBEIRO",
+     "d": "Quem apaga o incêndio e ajuda na enchente."
+    }
+   ]
+  },
+  {
+   "id": "f11",
+   "mec": "memoria",
+   "selo": "A PALAVRA E A FIGURA",
+   "enunciado": "Ache o par: de um lado a palavra, do outro a figura dela.",
+   "dica": "Toque no alto-falante da carta para ouvir a palavra antes de decidir.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "k": "campo",
+     "pal": "CAMPO",
+     "fig": "lt_campo",
+     "sen": "o campo de futebol do bairro",
+     "figsen": "lt_campo"
+    },
+    {
+     "k": "bomba",
+     "pal": "BOMBA",
+     "fig": "lt_bomba",
+     "sen": "a bomba que puxa a água",
+     "figsen": "lt_bomba"
+    },
+    {
+     "k": "tambor",
+     "pal": "TAMBOR",
+     "fig": "lt_tambor",
+     "sen": "o tambor da banda",
+     "figsen": "lt_tambor"
+    },
+    {
+     "k": "lampada",
+     "pal": "LÂMPADA",
+     "fig": "lt_lampada",
+     "sen": "a lâmpada do poste",
+     "figsen": "lt_lampada"
+    },
+    {
+     "k": "pomba",
+     "pal": "POMBA",
+     "fig": "lt_pomba",
+     "sen": "a pomba da praça",
+     "figsen": "lt_pomba"
+    }
+   ]
+  },
+  {
+   "id": "aquecimento",
+   "mec": "relampago",
+   "selo": "AQUECIMENTO DA OFICINA",
+   "enunciado": "Antes da segunda metade, o Pincel confere o que você já pegou. Nada novo aqui — é tudo o que já passou.",
+   "dica": "Vá rápido: você já respondeu coisas assim.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "p": "CA_PO — que letra entra?",
+     "c": "M",
+     "e": [
+      "N",
+      "NH"
+     ]
+    },
+    {
+     "p": "BO_BA — que letra entra?",
+     "c": "M",
+     "e": [
+      "N",
+      "MB"
+     ]
+    },
+    {
+     "p": "SE_PRE — que letra entra?",
+     "c": "M",
+     "e": [
+      "N",
+      "MP"
+     ]
+    },
+    {
+     "p": "O_BRO — que letra entra?",
+     "c": "M",
+     "e": [
+      "N",
+      "MB"
+     ]
+    },
+    {
+     "p": "TA_BOR — que letra entra?",
+     "c": "M",
+     "e": [
+      "N",
+      "NB"
+     ]
+    },
+    {
+     "p": "CA_PEÃO — que letra entra?",
+     "c": "M",
+     "e": [
+      "N",
+      "MP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f12",
+   "mec": "letras-escondidas",
+   "selo": "CUIDADO: NEM TODA PLACA PEDE M",
+   "enunciado": "Estas placas são de outras ruas. Leve a letra certa até o buraco — e desta vez olhe bem o que vem depois dele.",
+   "dica": "Fale a palavra em voz alta e escute a letra que vem DEPOIS do buraco.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "pal": "PONTE",
+     "esc": "PO_TE",
+     "extra": [
+      "M",
+      "R"
+     ],
+     "img": "lt_ponte",
+     "voz": "ponte",
+     "d": [
+      "<b>Pon-te</b>: o nariz treme igual. Mas olhe a letra depois do buraco.",
+      "Depois do buraco vem <b>T</b>, e não P nem B.",
+      "É o <b>N</b>. Ele está aceso."
+     ]
+    },
+    {
+     "pal": "CANTO",
+     "esc": "CA_TO",
+     "extra": [
+      "M",
+      "L"
+     ],
+     "img": "lt_canto",
+     "voz": "canto",
+     "d": [
+      "<b>Can-to</b>. Que letra vem logo depois do buraco?",
+      "Vem <b>T</b>. E antes de T não mora o M.",
+      "É o <b>N</b>."
+     ]
+    },
+    {
+     "pal": "MANGA",
+     "esc": "MA_GA",
+     "extra": [
+      "M",
+      "S"
+     ],
+     "img": "lt_manga",
+     "voz": "manga",
+     "d": [
+      "<b>Man-ga</b>: a fruta do quintal.",
+      "Depois do buraco vem <b>G</b>.",
+      "É o <b>N</b>."
+     ]
+    },
+    {
+     "pal": "VENTO",
+     "esc": "VE_TO",
+     "extra": [
+      "M",
+      "C"
+     ],
+     "img": "lt_vento",
+     "voz": "vento",
+     "d": [
+      "<b>Ven-to</b>: o que balança as folhas.",
+      "Depois do buraco vem <b>T</b>.",
+      "É o <b>N</b>."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "LETXT": {
+     "selo": "A LETRA QUE FALTA",
+     "balao": "Leve a <b>letra certa</b> até o buraco — olhe o que vem depois dele.",
+     "hint": "Toque na letra, arraste, ou digite no teclado.",
+     "ouvir": "a palavra",
+     "fecho": "Estas placas eram de outra família!"
+    }
+   }
+  },
+  {
+   "id": "f13",
+   "mec": "classificar",
+   "selo": "AS DUAS GAVETAS DA OFICINA",
+   "enunciado": "O Pincel guarda os moldes em duas gavetas. Ponha cada palavra na gaveta dela.",
+   "dica": "Olhe a letra que vem DEPOIS do M ou do N. É ela que decide a gaveta.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "k": "eme",
+     "n": "COM M<br>(antes de P e de B)",
+     "img": ""
+    },
+    {
+     "k": "ene",
+     "n": "COM N<br>(antes das outras)",
+     "img": ""
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Toque na palavra e depois na gaveta certa.",
+    "FICHAS": [
+     {
+      "t": "CA_PO",
+      "alvo": "eme",
+      "img": ""
+     },
+     {
+      "t": "BO_BA",
+      "alvo": "eme",
+      "img": ""
+     },
+     {
+      "t": "SE_PRE",
+      "alvo": "eme",
+      "img": ""
+     },
+     {
+      "t": "PO_TE",
+      "alvo": "ene",
+      "img": ""
+     },
+     {
+      "t": "CA_TO",
+      "alvo": "ene",
+      "img": ""
+     },
+     {
+      "t": "MA_GA",
+      "alvo": "ene",
+      "img": ""
+     }
+    ],
+    "DICAS": [
+     "Olhe a letra que vem logo depois do buraco.",
+     "Se depois do buraco vier <b>P</b> ou <b>B</b>, a palavra é da primeira gaveta. Qualquer outra letra, é da segunda.",
+     "A gaveta certa está com a borda acesa."
+    ]
+   }
+  },
+  {
+   "id": "f14",
+   "mec": "intruso",
+   "selo": "A PLACA QUE NÃO É DA MESMA FAMÍLIA",
+   "enunciado": "Três destas palavras pedem a mesma letra. Ache a que não pertence ao grupo.",
+   "dica": "Não olhe o começo da palavra: olhe a letra que vem depois do M ou do N.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "selo": "O ARMÁRIO DOS MOLDES",
+     "tipo": "texto",
+     "enun": "Três destas pedem a MESMA letra no buraco. <b>Qual não pertence?</b>",
+     "itens": [
+      {
+       "k": "campo",
+       "n": "CA_PO",
+       "img": ""
+      },
+      {
+       "k": "bomba",
+       "n": "BO_BA",
+       "img": ""
+      },
+      {
+       "k": "ponte",
+       "n": "PO_TE",
+       "img": ""
+      },
+      {
+       "k": "ombro",
+       "n": "O_BRO",
+       "img": ""
+      }
+     ],
+     "fora": "ponte",
+     "nomeFora": "PO_TE",
+     "d1": "Leia cada uma e veja o que vem logo depois do buraco.",
+     "d2": "Três delas têm P ou B depois do buraco. Uma tem outra letra.",
+     "d3": "É <b>PO_TE</b>: depois do buraco vem T, então ali entra N.",
+     "razoes": [
+      {
+       "t": "Nas outras três vem P ou B depois; nesta vem T.",
+       "ok": 1
+      },
+      {
+       "t": "Porque PO_TE é a palavra mais curta.",
+       "ok": 0
+      },
+      {
+       "t": "Porque PO_TE começa com P.",
+       "ok": 0
+      }
+     ],
+     "p1": "E por que ela ficou de fora?"
+    },
+    {
+     "selo": "A SEGUNDA PRATELEIRA",
+     "tipo": "texto",
+     "enun": "De novo: <b>qual não é da mesma família?</b>",
+     "itens": [
+      {
+       "k": "canto",
+       "n": "CA_TO",
+       "img": ""
+      },
+      {
+       "k": "manga",
+       "n": "MA_GA",
+       "img": ""
+      },
+      {
+       "k": "sempre",
+       "n": "SE_PRE",
+       "img": ""
+      },
+      {
+       "k": "vento",
+       "n": "VE_TO",
+       "img": ""
+      }
+     ],
+     "fora": "sempre",
+     "nomeFora": "SE_PRE",
+     "d1": "Olhe só a letra depois do buraco de cada uma.",
+     "d2": "Três têm T ou G. Uma tem P.",
+     "d3": "É <b>SE_PRE</b>: antes de P entra M.",
+     "razoes": [
+      {
+       "t": "Nas outras três vem T ou G depois; nesta vem P.",
+       "ok": 1
+      },
+      {
+       "t": "Porque SE_PRE tem seis letras.",
+       "ok": 0
+      },
+      {
+       "t": "Porque SE_PRE começa com S.",
+       "ok": 0
+      }
+     ],
+     "p1": "E por que ela ficou de fora?"
+    }
+   ]
+  },
+  {
+   "id": "f15",
+   "mec": "filtro",
+   "selo": "A PENEIRA DA GRÁFICA",
+   "enunciado": "A gráfica só imprime o que está escrito certo. Deixe passar as certas e segure as erradas.",
+   "dica": "Leia cada ficha e confira a letra antes do P ou do B.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "reg": "Só passam as palavras <b>escritas certas</b>.",
+     "curta": "escrita certa",
+     "fichas": [
+      {
+       "t": "CAMPO",
+       "ok": true
+      },
+      {
+       "t": "SEMPRE",
+       "ok": true
+      },
+      {
+       "t": "BOMBA",
+       "ok": true
+      },
+      {
+       "t": "CANPO",
+       "ok": false
+      },
+      {
+       "t": "SENPRE",
+       "ok": false
+      },
+      {
+       "t": "BONBA",
+       "ok": false
+      }
+     ],
+     "d1": "Fale a palavra e olhe a letra antes do P ou do B.",
+     "d2": "Olhe CAMPO: antes do P está o M. Essa passa.",
+     "d3": "As que ainda passam estão com a moldura acesa: "
+    },
+    {
+     "reg": "Agora só passam as que pedem <b>N</b> no lugar do buraco.",
+     "curta": "pede N",
+     "fichas": [
+      {
+       "t": "PO_TE",
+       "ok": true
+      },
+      {
+       "t": "CA_TO",
+       "ok": true
+      },
+      {
+       "t": "VE_TO",
+       "ok": true
+      },
+      {
+       "t": "CA_PO",
+       "ok": false
+      },
+      {
+       "t": "O_BRO",
+       "ok": false
+      },
+      {
+       "t": "BO_BA",
+       "ok": false
+      }
+     ],
+     "d1": "Olhe a letra logo depois do buraco.",
+     "d2": "Se vier P ou B, a palavra pede M — essa fica de fora.",
+     "d3": "As que ainda passam estão acesas: "
+    }
+   ]
+  },
+  {
+   "id": "f16",
+   "mec": "ligar",
+   "selo": "CADA PALAVRA COM O SEU MOTIVO",
+   "enunciado": "Ligue a palavra ao motivo de ela levar aquela letra.",
+   "dica": "O motivo está sempre na letra que vem DEPOIS.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "k": "p0",
+     "t": "CAMPO",
+     "s": "leva M porque depois vem P"
+    },
+    {
+     "k": "p1",
+     "t": "BOMBA",
+     "s": "leva M porque depois vem B"
+    },
+    {
+     "k": "p2",
+     "t": "CANTO",
+     "s": "leva N porque depois vem T"
+    },
+    {
+     "k": "p3",
+     "t": "MANGA",
+     "s": "leva N porque depois vem G"
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Toque na palavra e depois no motivo dela.",
+    "FECHO": "Cada palavra com o seu motivo!",
+    "DICAS": [
+     "Leia a palavra e veja que letra vem depois do M ou do N.",
+     "P e B pedem M. As outras letras pedem N.",
+     "O par certo está aceso."
+    ]
+   }
+  },
+  {
+   "id": "f17",
+   "mec": "quem-sou-eu",
+   "selo": "A PLACA MISTERIOSA",
+   "enunciado": "O Pincel guardou uma placa embrulhada. Descubra qual é — cada pista conta mais.",
+   "dica": "Quanto menos pista você usar, mais estrela ganha.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "resp": "BOMBEIRO",
+     "pistas": [
+      "Eu tenho <b>duas letras juntas</b> no meio: uma delas é o M.",
+      "Eu apareço na enchente e no incêndio, sempre de <b>vermelho</b>.",
+      "O meu nome começa igual ao de <b>BOMBA</b>."
+     ],
+     "outros": [
+      "BONBEIRO",
+      "PADEIRO",
+      "PEDREIRO"
+     ]
+    },
+    {
+     "resp": "CAMPEÃO",
+     "pistas": [
+      "Eu levo <b>M antes do P</b>, como CAMPO.",
+      "Eu ganhei o campeonato do bairro.",
+      "O meu nome termina com <b>-ÃO</b>."
+     ],
+     "outros": [
+      "CANPEÃO",
+      "CORREDOR",
+      "TORCEDOR"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f18",
+   "mec": "conserte-o-erro",
+   "selo": "O CARDÁPIO DA LANCHONETE",
+   "enunciado": "O cardápio foi impresso com um erro em cada linha. Ache e conserte.",
+   "dica": "Leia a linha inteira antes de escolher o pedaço.",
+   "conceito": "objetivo4",
+   "dados": [
+    {
+     "selo": "LANCHONETE DA PRAÇA",
+     "cab": "CARDÁPIO DA SEMANA",
+     "bal": "Uma palavra desta linha está errada. Ache e conserte.",
+     "pecas": [
+      "SUCO",
+      "DE",
+      "MANGA",
+      "SENPRE",
+      "GELADO"
+     ],
+     "erro": 3,
+     "certa": "SEMPRE",
+     "ops": [
+      "SEMPRE",
+      "SENPRE",
+      "SEMPRI"
+     ],
+     "por": "É <b>SEMPRE</b>: antes de P vem M. E repare que MANGA está certa, com N.",
+     "dicas": [
+      "Leia a linha baixinho, palavra por palavra.",
+      "Duas palavras têm o som do nariz. Só uma está errada.",
+      "Era esta: eu marquei para você."
+     ],
+     "dicas2": [
+      "Fale <b>sem-pre</b> e escute a letra antes do P.",
+      "Antes de P e de B a letra é sempre a mesma.",
+      "Era <b>SEMPRE</b>. Troquei para você ver."
+     ]
+    },
+    {
+     "selo": "LANCHONETE DA PRAÇA",
+     "cab": "A SEGUNDA LINHA",
+     "bal": "Nesta linha também tem uma palavra trocada.",
+     "pecas": [
+      "PASTEL",
+      "DE",
+      "CANPO",
+      "COM",
+      "QUEIJO"
+     ],
+     "erro": 2,
+     "certa": "CAMPO",
+     "ops": [
+      "CAMPO",
+      "CANPO",
+      "CAMPU"
+     ],
+     "por": "É <b>CAMPO</b>, com M antes do P.",
+     "dicas": [
+      "Uma palavra tem o som do nariz antes do P.",
+      "É a terceira palavra da linha.",
+      "Marquei para você: agora escolha a certa."
+     ],
+     "dicas2": [
+      "O fim da palavra é <b>-PO</b>. O que muda é a letra antes do P.",
+      "Antes de P mora o M.",
+      "Era <b>CAMPO</b>."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f19",
+   "mec": "pintar",
+   "selo": "O CARTAZ DA FESTA",
+   "enunciado": "Este cartaz vai para o mural da escola. Pinte as palavras que estão escritas <b>erradas</b>.",
+   "dica": "Leia o cartaz inteiro em voz alta. Onde a sua boca faz o som do nariz antes de P ou B, tem que ter M.",
+   "conceito": "objetivo4",
+   "dados": [
+    {
+     "t": "A festa do bairro vai ter "
+    },
+    {
+     "p": "CANPO",
+     "alvo": 1
+    },
+    {
+     "t": " de futebol, banda com "
+    },
+    {
+     "p": "TAMBOR"
+    },
+    {
+     "t": " e comida "
+    },
+    {
+     "p": "SENPRE",
+     "alvo": 1
+    },
+    {
+     "t": " quentinha. Traga o guarda-chuva: o "
+    },
+    {
+     "p": "TEMPO"
+    },
+    {
+     "t": " pode virar. Os "
+    },
+    {
+     "p": "BONBEIROS",
+     "alvo": 1
+    },
+    {
+     "t": " vão estar na entrada, e a "
+    },
+    {
+     "p": "PONTE"
+    },
+    {
+     "t": " fica aberta até tarde."
+    }
+   ],
+   "dadosExtra": {
+    "CATEG": "as palavras ERRADAS"
+   }
+  },
+  {
+   "id": "f20",
+   "mec": "juntar-silabas",
+   "selo": "OS PEDAÇOS NO CHÃO DA OFICINA",
+   "enunciado": "O molde da palavra caiu e os pedaços se espalharam. Junte na ordem certa.",
+   "dica": "Diga a palavra devagar: qual pedaço a boca fala primeiro?",
+   "conceito": "objetivo4",
+   "dados": [
+    {
+     "pal": "CAMPEÃO",
+     "sil": [
+      "CAM",
+      "PE",
+      "ÃO"
+     ],
+     "img": "lt_campeao",
+     "iscas": [
+      "CAN",
+      "PO"
+     ],
+     "lento": "CAM... PE... ÃO",
+     "d": [
+      "Fale devagar: qual pedaço vem primeiro?",
+      "O primeiro pedaço tem o som do nariz e termina em M.",
+      "É o <b>CAM</b>: ele está aceso."
+     ]
+    },
+    {
+     "pal": "BOMBEIRO",
+     "sil": [
+      "BOM",
+      "BEI",
+      "RO"
+     ],
+     "img": "lt_bombeiro",
+     "iscas": [
+      "BON",
+      "BA"
+     ],
+     "lento": "BOM... BEI... RO",
+     "d": [
+      "Qual pedaço a boca fala primeiro?",
+      "Antes do B do segundo pedaço mora o M.",
+      "É o <b>BOM</b>."
+     ]
+    },
+    {
+     "pal": "LÂMPADA",
+     "sil": [
+      "LÂM",
+      "PA",
+      "DA"
+     ],
+     "img": "lt_lampada",
+     "iscas": [
+      "LÃN",
+      "TA"
+     ],
+     "lento": "LÂM... PA... DA",
+     "d": [
+      "Diga <b>LÂM-PA-DA</b> devagar.",
+      "O primeiro pedaço leva chapéu no A e termina em M.",
+      "É o <b>LÂM</b>."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "SILTXT": {
+     "selo": "JUNTE OS PEDAÇOS",
+     "balao": "Junte os pedaços e forme a palavra da <b>figura</b>.",
+     "hint": "Toque no pedaço certo. Ele escorrega até a forma.",
+     "ouvir": "a palavra",
+     "pedacos": "em pedaços"
+    }
+   }
+  },
+  {
+   "id": "f21",
+   "mec": "caca-palavras",
+   "selo": "AS PALAVRAS DA OUTRA RUA",
+   "enunciado": "Cinco palavras se esconderam no quadro — e nenhuma delas leva M. Toque na primeira e na última letra de cada uma.",
+   "dica": "Todas estas pedem N: olhe a letra que vem depois.",
+   "conceito": "objetivo4",
+   "dados": [
+    "PONTE",
+    "CANTO",
+    "MANGA",
+    "VENTO",
+    "BANCO"
+   ],
+   "dadosExtra": {
+    "TITULO": "O QUADRO DA OUTRA RUA",
+    "PALDEF": {
+     "PONTE": "Passa por cima do rio e liga um lado ao outro.",
+     "CANTO": "O lugar onde duas paredes se encontram.",
+     "MANGA": "Fruta amarela e doce do quintal.",
+     "VENTO": "Você não vê, mas ele balança as folhas.",
+     "BANCO": "Onde a gente senta na praça."
+    },
+    "MODO": "definicoes"
+   }
+  },
+  {
+   "id": "f22",
+   "mec": "montar-frase",
+   "selo": "O SLOGAN DA LOJA",
+   "enunciado": "Monte a frase que vai embaixo do nome da loja.",
+   "dica": "Comece pela palavrinha que abre a frase.",
+   "conceito": "objetivo4",
+   "dados": [
+    {
+     "w": [
+      "O",
+      "campo",
+      "sempre",
+      "aberto"
+     ],
+     "c": [
+      "art",
+      "sub",
+      "adv",
+      "adj"
+     ],
+     "apoio": true
+    },
+    {
+     "w": [
+      "A",
+      "bomba",
+      "chegou",
+      "hoje"
+     ],
+     "c": [
+      "art",
+      "sub",
+      "ver",
+      "adv"
+     ],
+     "apoio": false
+    },
+    {
+     "w": [
+      "O",
+      "tambor",
+      "tocou",
+      "ontem"
+     ],
+     "c": [
+      "art",
+      "sub",
+      "ver",
+      "adv"
+     ],
+     "apoio": false
+    }
+   ],
+   "dadosExtra": {
+    "CLA": {
+     "art": {
+      "r": "o / a",
+      "d": "a palavrinha <b>o</b> ou <b>a</b>, que abre a frase"
+     },
+     "sub": {
+      "r": "nome",
+      "d": "o <b>nome</b> da coisa que está na placa"
+     },
+     "adj": {
+      "r": "como é",
+      "d": "<b>como</b> a coisa é"
+     },
+     "ver": {
+      "r": "ação",
+      "d": "o que a coisa <b>fez</b>"
+     },
+     "adv": {
+      "r": "quando",
+      "d": "<b>quando</b> aconteceu"
+     }
+    },
+    "FORMAS": [
+     "art",
+     "sub",
+     "adj",
+     "ver",
+     "adv"
+    ]
+   }
+  },
+  {
+   "id": "f23",
+   "mec": "escrever-legenda",
+   "selo": "A FOTO DA PLACA PRONTA",
+   "enunciado": "O Pincel fotografou a placa consertada. Escreva a legenda da foto.",
+   "dica": "Diga o que tem na foto e como está. As palavras de apoio entram com um toque.",
+   "conceito": "objetivo4",
+   "dados": [
+    {
+     "img": "lt_placa_pronta",
+     "sel": "FOTO 1 DE 2",
+     "ped": "Escreva a legenda desta foto: <b>o que</b> tem e <b>como</b> ficou.",
+     "apoio": [
+      "a placa",
+      "da padaria",
+      "com M",
+      "escrita certa",
+      "na Rua XV",
+      "nova"
+     ],
+     "comeco": "A placa da padaria ficou ",
+     "exemplo": "a placa da padaria ficou escrita certa com m"
+    },
+    {
+     "img": "lt_placa_ponte",
+     "sel": "FOTO 2 DE 2",
+     "ped": "E esta, da placa da ponte: <b>o que</b> tem e <b>como</b> ficou?",
+     "apoio": [
+      "a placa",
+      "da ponte",
+      "com N",
+      "escrita certa",
+      "perto do rio",
+      "grande"
+     ],
+     "comeco": "A placa da ponte ficou ",
+     "exemplo": "a placa da ponte ficou escrita certa com n"
+    }
+   ]
+  },
+  {
+   "id": "f24",
+   "mec": "digitar",
+   "selo": "O LETREIRO GRANDE",
+   "enunciado": "As últimas placas da rua. Escreva o nome de cada uma.",
+   "dica": "Fale a palavra antes de escrever e olhe a letra que vem depois do som do nariz.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "img": "lt_bombeiro",
+     "palavra": "BOMBEIRO",
+     "pista": "Quem apaga o incêndio e ajuda na enchente.",
+     "dic": "<b>BOM-BEI-RO</b>: antes do segundo B vem M."
+    },
+    {
+     "img": "lt_ponte",
+     "palavra": "PONTE",
+     "pista": "Passa por cima do rio e liga um lado ao outro.",
+     "dic": "<b>PON-TE</b>: depois vem T, então não é M."
+    },
+    {
+     "img": "lt_lampada",
+     "palavra": "LAMPADA",
+     "pista": "Acende no poste quando escurece.",
+     "dic": "<b>LAM-PA-DA</b>: antes do P vem M."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Escreva o nome da placa, letra por letra.",
+    "FECHO": "As três placas grandes ficaram prontas!"
+   }
+  },
+  {
+   "id": "f25",
+   "mec": "ditado",
+   "selo": "O PINCEL DITA A PLACA",
+   "enunciado": "Ele fala, você escreve. Pode usar o teclado da tela ou o de verdade.",
+   "dica": "Repita a palavra baixinho antes de escrever.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "id": "lt_dit1",
+     "txt": "CAMPO",
+     "dic": "Diga baixinho: <b>CAM-PO</b>."
+    },
+    {
+     "id": "lt_dit2",
+     "txt": "PONTE",
+     "dic": "Diga baixinho: <b>PON-TE</b>. Olhe a letra depois do buraco."
+    },
+    {
+     "id": "lt_dit3",
+     "txt": "BOMBEIRO",
+     "dic": "São três pedaços: <b>BOM-BEI-RO</b>."
+    }
+   ],
+   "dadosExtra": {
+    "SOBRA": "HJKQWXYZ",
+    "ESPERA": "&#9679; &#9679; &#9679;"
+   }
+  },
+  {
+   "id": "f26",
+   "mec": "autoexplicacao",
+   "selo": "POR QUE VOCÊ ESCREVEU ASSIM?",
+   "enunciado": "Escolha a placa certa — e depois conte por que ela é a certa.",
+   "dica": "Não é decorar: é dizer o que você olhou para decidir.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "selo": "A PLACA DA ACADEMIA",
+     "tarefa": "A academia quer a palavra OMBRO na placa. <b>Qual</b> está certa?",
+     "dicas": [
+      "Fale a palavra e escute a letra antes do B.",
+      "Risquei uma que não serve. Sobrou a que tem a letra certa antes do B."
+     ],
+     "esc": [
+      {
+       "img": "lt_ombro",
+       "r": "OMBRO",
+       "c": true
+      },
+      {
+       "img": "lt_ombro",
+       "r": "ONBRO",
+       "c": false
+      },
+      {
+       "img": "lt_ombro",
+       "r": "OMBRU",
+       "c": false
+      }
+     ],
+     "pq": "Deu certo! Mas <b>por que</b> essa é a certa?",
+     "perguntas": [
+      "Que letra vem depois do buraco nessa palavra?",
+      "E quando vem P ou B, que letra entra antes?"
+     ],
+     "cards": [
+      {
+       "t": "Porque depois vem <b>B</b>, e antes de B entra M.",
+       "c": true
+      },
+      {
+       "t": "Porque a palavra é grande.",
+       "c": false
+      },
+      {
+       "t": "Porque eu decorei essa palavra.",
+       "c": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f27",
+   "mec": "ensinar-mascote",
+   "selo": "ENSINE A REGRA AO PINCEL",
+   "enunciado": "O Pincel vai pintar sozinho a próxima placa. Ensine a ele a regra que você usou o tempo todo.",
+   "dica": "Pense no que você olhou em cada palavra antes de escolher a letra.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "sel": "A PLACA DO CAMPO",
+     "prob": "O Pincel tem que pintar <b>CA_PO</b> e não sabe que letra pôr. <b>Ensine</b> a regra a ele.",
+     "se": "SE depois do buraco vem P ou B, ENTÃO eu ponho...",
+     "regras": [
+      {
+       "t": "a letra <b>M</b>",
+       "cai": "M",
+       "ok": 1
+      },
+      {
+       "t": "a letra <b>N</b>",
+       "cai": "N",
+       "ok": 0,
+       "deixa": "monte"
+      },
+      {
+       "t": "as duas, <b>MN</b>",
+       "cai": "MN",
+       "ok": 0,
+       "deixa": "monte"
+      },
+      {
+       "t": "nenhuma, deixo o buraco",
+       "cai": "",
+       "ok": 0
+      }
+     ],
+     "bom": "Ficou <b>CAMPO</b>! A dona da padaria já pode pendurar.",
+     "porque": "Olhe a placa: com essa letra a palavra não fica igual à que a gente fala.",
+     "d": [
+      "Pense no que você olhou nas outras placas antes de escolher.",
+      "Depois do buraco vem <b>P</b>. Que letra você pôs nesses casos?",
+      "A regra do <b>M</b> está acesa: toque nela para ensinar o Pincel."
+     ]
+    },
+    {
+     "sel": "A PLACA DA PONTE",
+     "prob": "Agora ele tem que pintar <b>PO_TE</b>. <b>Ensine</b> a regra desta.",
+     "se": "SE depois do buraco vem outra letra, ENTÃO eu ponho...",
+     "regras": [
+      {
+       "t": "a letra <b>N</b>",
+       "cai": "N",
+       "ok": 1
+      },
+      {
+       "t": "a letra <b>M</b>",
+       "cai": "M",
+       "ok": 0,
+       "deixa": "monte"
+      },
+      {
+       "t": "a letra <b>H</b>",
+       "cai": "H",
+       "ok": 0,
+       "deixa": "monte"
+      }
+     ],
+     "bom": "Ficou <b>PONTE</b>! A placa já está no lugar.",
+     "porque": "Leia o que ficou escrito: é assim que a gente fala?",
+     "d": [
+      "Olhe a letra que vem depois do buraco desta palavra.",
+      "Vem <b>T</b> — e antes de T não mora o M.",
+      "A regra do <b>N</b> está acesa: toque nela."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f28",
+   "mec": "escolher",
+   "selo": "A PROVA FINAL DA GRÁFICA",
+   "enunciado": "Última conferência antes de imprimir tudo. Escolha a placa certa.",
+   "dica": "Agora você já sabe olhar: veja a letra que vem depois.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "p": "A placa da farmácia. Qual está certa?",
+     "c": "SEMPRE ABERTA",
+     "e": [
+      "SENPRE ABERTA",
+      "SEMPRE ABERTHA"
+     ],
+     "d": [
+      "Fale <b>sem-pre</b>.",
+      "Depois do buraco vem P.",
+      "É <b>SEMPRE ABERTA</b>."
+     ]
+    },
+    {
+     "p": "A placa do mercado da esquina. Qual está certa?",
+     "c": "MANGA DO DIA",
+     "e": [
+      "MAMGA DO DIA",
+      "MANGUA DO DIA"
+     ],
+     "d": [
+      "Fale <b>man-ga</b>.",
+      "Depois do buraco vem G, e não P nem B.",
+      "É <b>MANGA DO DIA</b>."
+     ]
+    },
+    {
+     "p": "A placa da loja de música. Qual está certa?",
+     "c": "TAMBOR E TROMBONE",
+     "e": [
+      "TANBOR E TRONBONE",
+      "TAMBOR E TROMBÔNE"
+     ],
+     "d": [
+      "São duas palavras com a mesma família.",
+      "Nas duas, depois do buraco vem B.",
+      "É <b>TAMBOR E TROMBONE</b>."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "TITULO": "A ÚLTIMA PROVA",
+    "FECHO": "A gráfica pode imprimir!"
+   }
+  },
+  {
+   "id": "f29",
+   "mec": "relampago",
+   "selo": "RELÂMPAGO DA OFICINA",
+   "enunciado": "Rápido: M ou N? Sem dica e sem pressa no fim — vá pelo que você já sabe.",
+   "dica": "Olhe a letra que vem depois do buraco.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "p": "LI_PO",
+     "c": "M",
+     "e": [
+      "N"
+     ]
+    },
+    {
+     "p": "MU_DO",
+     "c": "N",
+     "e": [
+      "M"
+     ]
+    },
+    {
+     "p": "SO_BRA",
+     "c": "M",
+     "e": [
+      "N"
+     ]
+    },
+    {
+     "p": "DE_TE",
+     "c": "N",
+     "e": [
+      "M"
+     ]
+    },
+    {
+     "p": "TE_PO",
+     "c": "M",
+     "e": [
+      "N"
+     ]
+    },
+    {
+     "p": "BA_CO",
+     "c": "N",
+     "e": [
+      "M"
+     ]
+    },
+    {
+     "p": "O_BRO",
+     "c": "M",
+     "e": [
+      "N"
+     ]
+    },
+    {
+     "p": "O_TEM",
+     "c": "N",
+     "e": [
+      "M"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f30",
+   "mec": "completar",
+   "selo": "A CARTA DA DONA DA PADARIA",
+   "enunciado": "Ela escreveu para agradecer, mas o papel borrou em três lugares. Complete.",
+   "dica": "Leia a frase inteira antes de escolher.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "ante": "A minha placa ficou pronta e eu ",
+     "dep": " vou lembrar de vocês.",
+     "cer": "sempre",
+     "out": [
+      "senpre",
+      "sempri"
+     ],
+     "dic": "Depois do buraco vem P."
+    },
+    {
+     "ante": "Agora todo mundo acha a padaria, até quem vem da outra ",
+     "dep": " do rio.",
+     "cer": "ponte",
+     "out": [
+      "pomte",
+      "pontte"
+     ],
+     "dic": "Depois do buraco vem T."
+    },
+    {
+     "ante": "O time do ",
+     "dep": " já veio comprar pão duas vezes.",
+     "cer": "campo",
+     "out": [
+      "canpo",
+      "campu"
+     ],
+     "dic": "Depois do buraco vem P."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Toque no pedaço que <b>completa</b> a frase da carta.",
+    "DEPOIS": "Leia a frase inteira antes de escolher.",
+    "FECHO": "A carta ficou inteira!"
+   }
+  },
+  {
+   "id": "f31",
+   "mec": "memoria",
+   "selo": "O ARQUIVO DA OFICINA",
+   "enunciado": "Ache o par: de um lado a palavra, do outro o motivo da letra dela.",
+   "dica": "Toque no alto-falante da carta para ouvir a palavra.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "k": "campo",
+     "pal": "CAMPO",
+     "fig": "lt_campo",
+     "sen": "M, porque depois vem P",
+     "figsen": "lt_campo"
+    },
+    {
+     "k": "ombro",
+     "pal": "OMBRO",
+     "fig": "lt_ombro",
+     "sen": "M, porque depois vem B",
+     "figsen": "lt_ombro"
+    },
+    {
+     "k": "ponte",
+     "pal": "PONTE",
+     "fig": "lt_ponte",
+     "sen": "N, porque depois vem T",
+     "figsen": "lt_ponte"
+    },
+    {
+     "k": "manga",
+     "pal": "MANGA",
+     "fig": "lt_manga",
+     "sen": "N, porque depois vem G",
+     "figsen": "lt_manga"
+    }
+   ]
+  },
+  {
+   "id": "f32",
+   "mec": "ouvir-achar",
+   "selo": "O PEDIDO POR TELEFONE",
+   "enunciado": "O cliente ligou e falou o nome da loja. Ouça e toque na placa certa.",
+   "dica": "Pode apertar o botão de ouvir quantas vezes quiser.",
+   "conceito": "objetivo1",
+   "dados": [
+    {
+     "selo": "OUÇA E ACHE",
+     "alvo": "campo",
+     "opcoes": [
+      "campo",
+      "canto",
+      "ponte",
+      "bomba"
+     ],
+     "rotulo": "A PALAVRA É",
+     "escrito": "CAMPO",
+     "fala": "campo",
+     "enun": "Ouça a palavra e toque na <b>placa</b> dela.",
+     "hint": "Sem som no computador? A palavra está escrita aí em cima.",
+     "msg": "Isso! <b>CAMPO</b> leva M porque depois vem P.",
+     "dicas": [
+      "Aperte <b>Ouvir</b> de novo e diga a palavra junto, devagar.",
+      "A palavra começa com <b>CA</b> e tem P no meio.",
+      "É esta: a placa do <b>CAMPO</b> de futebol."
+     ]
+    },
+    {
+     "selo": "OUÇA E ACHE",
+     "alvo": "ponte",
+     "opcoes": [
+      "ponte",
+      "bomba",
+      "campo",
+      "manga"
+     ],
+     "rotulo": "A PALAVRA É",
+     "escrito": "PONTE",
+     "fala": "ponte",
+     "enun": "Ouça a palavra e toque na <b>placa</b> dela.",
+     "hint": "Sem som no computador? A palavra está escrita aí em cima.",
+     "msg": "Isso! <b>PONTE</b> leva N porque depois vem T.",
+     "dicas": [
+      "Aperte <b>Ouvir</b> de novo e escute o fim da palavra.",
+      "Ela começa com <b>PO</b> e tem T no meio.",
+      "É esta: a placa da <b>PONTE</b> sobre o rio."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "CATALOGO": {
+     "campo": {
+      "nome": "CAMPO",
+      "voz": "campo"
+     },
+     "canto": {
+      "nome": "CANTO",
+      "voz": "canto"
+     },
+     "ponte": {
+      "nome": "PONTE",
+      "voz": "ponte"
+     },
+     "bomba": {
+      "nome": "BOMBA",
+      "voz": "bomba"
+     },
+     "manga": {
+      "nome": "MANGA",
+      "voz": "manga"
+     }
+    },
+    "TEXTOS": {
+     "ouvir": "OUVIR A PALAVRA",
+     "ouvirDica": "Pode apertar quantas vezes quiser.",
+     "ouvirLeitor": "Ouvir a palavra de novo"
+    }
+   }
+  },
+  {
+   "id": "f33",
+   "mec": "conserte-o-erro",
+   "selo": "A PLACA DO MORRO DO AIPIM",
+   "enunciado": "A maior placa da cidade, aquela que se vê de longe. Ela tem um erro só — e ele engana até adulto.",
+   "dica": "Leia devagar. Uma das palavras tem o som do nariz e não é o que parece.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "selo": "MORRO DO AIPIM",
+     "cab": "A PLACA DO MIRANTE",
+     "bal": "Ache o pedaço errado desta placa e conserte.",
+     "pecas": [
+      "MIRANTE",
+      "SENPRE",
+      "ABERTO",
+      "AO",
+      "VENTO"
+     ],
+     "erro": 1,
+     "certa": "SEMPRE",
+     "ops": [
+      "SEMPRE",
+      "SENPRE",
+      "SEMPRI"
+     ],
+     "por": "É <b>SEMPRE</b>, com M. Repare que MIRANTE e VENTO estão certas com N — e agora você sabe dizer por quê.",
+     "dicas": [
+      "Três palavras aqui têm o som do nariz. Só uma está errada.",
+      "Olhe a letra que vem depois em cada uma delas.",
+      "Era esta: marquei para você."
+     ],
+     "dicas2": [
+      "Depois do buraco vem <b>P</b>.",
+      "E antes de P mora sempre a mesma letra.",
+      "Era <b>SEMPRE</b>."
+     ]
+    }
+   ]
+  }
+ ]
+}

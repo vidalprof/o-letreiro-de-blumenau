@@ -1,0 +1,41 @@
+/* ============================================================
+   TEMA — O LETREIRO DE BLUMENAU (5º ano)
+
+   Entra por ÚLTIMO no `<style>` (ver `montar.py`), então ganha do motor e das
+   peças no empate de especificidade. É a camada de IDENTIDADE.
+
+   ⚠️⚠️ POR QUE ESTE ARQUIVO EXISTE — e a decisão foi MEDIDA, não escolhida.
+   O fundo desta atividade é uma FOTO de rua: enxaimel, placas, calçada. Foto
+   tem meio-tom em todo lugar, e meio-tom é o pior fundo possível para texto:
+   o auditor achou 17 textos entre 1,1:1 e 2,9:1 — nem a tinta clara nem a
+   escura enxergam ali. Um galpão escuro ou um céu liso perdoam; uma foto não.
+
+   O conserto não é escolher outra tinta: é **acalmar o fundo**. A rua continua
+   lá, atrás de um véu de papel claro, e todo o resto da atividade passa a
+   trabalhar sobre um tom só. É o que a gráfica de verdade faz quando imprime
+   texto sobre foto.
+
+   ⚠️ O que este arquivo NÃO faz: consertar peça. As peças com texto solto
+   ganharam a mesa DELAS (ver `_padrao/pecas/*`, lição "texto solto no fundo da
+   atividade"), que é o conserto que vale para todas as atividades. Aqui fica
+   só o que é identidade DESTA.
+   ============================================================ */
+
+/* ---- o véu de papel: a rua continua visível, mas parada ---- */
+body{background:#efe6d6}
+#bg{opacity:.28}
+/* o céu animado do motor não faz sentido numa rua fotografada */
+#ceu{opacity:.10}
+
+/* ---- a tinta da casa: escura, como numa placa pintada à mão ---- */
+:root{--texto:#2f2718}
+
+/* ---- as plaquinhas de título das peças: metal claro com tinta escura ----
+   Elas eram translúcidas e deixavam a foto passar por baixo da letra. */
+.cadt,.f2_ctx{background:rgba(255,253,246,.94);color:#2f2718;
+  border-radius:12px;padding:4px 12px;display:inline-block}
+
+/* ---- o selo e a barra na cor da oficina ----
+   ⚠️ o verde-tinta foi escurecido até passar com a letra branca (4,5:1). */
+.selo{background:#2f6b3a}
+.prog i{background:#c9622f}

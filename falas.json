@@ -1,0 +1,2518 @@
+[
+ {
+  "id": "lt_abertura",
+  "texto": "O ajudante novo do Pincel pintou dezoito placas da Rua XV em um dia só — e trocou uma letra em quase todas. A padaria virou PADARIA CANPO BOM, a floricultura virou FLORES SENPRE VIVAS, e a cidade inteira está lendo errado. O Pincel já tem a tinta na mão, mas ficou com uma dúvida: qual letra é a certa? Conserte as placas com ele."
+ },
+ {
+  "id": "lt_f01_intro",
+  "texto": "O ajudante novo pintou as placas da Rua XV. Esta ficou estranha e a dona não sabe por quê. Ache o pedaço errado e conserte."
+ },
+ {
+  "id": "lt_f01_dica",
+  "texto": "Leia a placa em voz alta, devagar. Onde a sua boca faz um som diferente do que está escrito?"
+ },
+ {
+  "id": "op_1gxe582",
+  "texto": "PADARIA DA RUA XV"
+ },
+ {
+  "id": "op_15biaa4",
+  "texto": "O LETREIRO PINTADO ONTEM"
+ },
+ {
+  "id": "op_17dpfot",
+  "texto": "A dona pediu PADARIA CAMPO BOM. O ajudante pintou assim. Ache o pedaço errado."
+ },
+ {
+  "id": "op_16y1f4n",
+  "texto": "PADARIA"
+ },
+ {
+  "id": "op_47x4t2",
+  "texto": "CANPO"
+ },
+ {
+  "id": "op_3773wj",
+  "texto": "BOM"
+ },
+ {
+  "id": "op_47x3yt",
+  "texto": "CAMPO"
+ },
+ {
+  "id": "op_47x3yz",
+  "texto": "CAMPU"
+ },
+ {
+  "id": "op_1w89a8z",
+  "texto": "CANMPO"
+ },
+ {
+  "id": "op_1o97yy1",
+  "texto": "É CAMPO, com M. Guarde esta placa: no fim você vai saber dizer por quê."
+ },
+ {
+  "id": "op_1yz4ax5",
+  "texto": "Diga a palavra em voz alta: cam-po. Escute o pedacinho antes do P."
+ },
+ {
+  "id": "op_vlp4nu",
+  "texto": "Uma letra ali está no lugar da outra. É a letra que vem antes do P."
+ },
+ {
+  "id": "op_kleges",
+  "texto": "Era esta: eu marquei para você. Agora escolha o jeito certo."
+ },
+ {
+  "id": "op_uqk73x",
+  "texto": "Duas opções mudam a última letra; uma muda a letra do meio. Ouça: cam-po."
+ },
+ {
+  "id": "op_s7iia1",
+  "texto": "O fim da palavra é -PO, com O. O que muda mesmo é a letra antes do P."
+ },
+ {
+  "id": "op_15a7lc5",
+  "texto": "Era CAMPO. Troquei para você ver na placa."
+ },
+ {
+  "id": "op_1p54y8r",
+  "texto": "FLORICULTURA DO GARCIA"
+ },
+ {
+  "id": "op_cg9uxa",
+  "texto": "A SEGUNDA PLACA"
+ },
+ {
+  "id": "op_1ibq2m6",
+  "texto": "Esta é da floricultura do bairro Garcia. Ache o pedaço errado."
+ },
+ {
+  "id": "op_1ydy6s0",
+  "texto": "FLORES"
+ },
+ {
+  "id": "op_7mrw36",
+  "texto": "SENPRE"
+ },
+ {
+  "id": "op_4lif66",
+  "texto": "VIVAS"
+ },
+ {
+  "id": "op_7mr4cx",
+  "texto": "SEMPRE"
+ },
+ {
+  "id": "op_7mr4d1",
+  "texto": "SEMPRI"
+ },
+ {
+  "id": "op_e8yqn2",
+  "texto": "É SEMPRE, com M antes do P."
+ },
+ {
+  "id": "op_gytwpb",
+  "texto": "Fale devagar: sem-pre. Repare no som antes do P."
+ },
+ {
+  "id": "op_1qihftu",
+  "texto": "O erro está na mesma família do erro da padaria."
+ },
+ {
+  "id": "op_1ta7ru",
+  "texto": "Marquei o pedaço: agora é só escolher o certo."
+ },
+ {
+  "id": "op_up2f4k",
+  "texto": "Uma opção troca o fim da palavra; a outra troca a letra do meio."
+ },
+ {
+  "id": "op_1q4rme3",
+  "texto": "O fim é -PRE. Olhe a letra que vem antes do P."
+ },
+ {
+  "id": "op_6d79kh",
+  "texto": "Era SEMPRE. Troquei para você ver."
+ },
+ {
+  "id": "lt_f02_intro",
+  "texto": "Bata uma vez para cada pedaço da palavra. Ponha o dedo no nariz enquanto fala: você vai sentir ele tremer."
+ },
+ {
+  "id": "lt_f02_dica",
+  "texto": "O nariz treme no pedaço que termina com o som de M ou de N. Fale bem devagar."
+ },
+ {
+  "id": "op_3774dy",
+  "texto": "CAM"
+ },
+ {
+  "id": "op_3hoh0",
+  "texto": "PO"
+ },
+ {
+  "id": "op_1f5py4f",
+  "texto": "cam... po"
+ },
+ {
+  "id": "op_1xmos8h",
+  "texto": "Diga CAM-PO devagar e bata uma vez para cada pedaço."
+ },
+ {
+  "id": "op_1l7piay",
+  "texto": "São dois pedaços. O primeiro sai pelo nariz: cam."
+ },
+ {
+  "id": "op_199013q",
+  "texto": "São 2 batidas: cam... po. Elas já estão aí — toque em Pronto."
+ },
+ {
+  "id": "op_47igqu",
+  "texto": "BOMBA"
+ },
+ {
+  "id": "op_3ho3s",
+  "texto": "BA"
+ },
+ {
+  "id": "op_d6ekxc",
+  "texto": "bom... ba"
+ },
+ {
+  "id": "op_1xnfj75",
+  "texto": "Ponha a mão no nariz e diga BOM-BA. Sentiu o tremor?"
+ },
+ {
+  "id": "op_1wm1rhl",
+  "texto": "O tremor está no primeiro pedaço, que é o que termina no som do nariz."
+ },
+ {
+  "id": "op_4j5sx3",
+  "texto": "São 2 batidas: bom... ba."
+ },
+ {
+  "id": "op_877xca",
+  "texto": "TAMBOR"
+ },
+ {
+  "id": "op_377io7",
+  "texto": "TAM"
+ },
+ {
+  "id": "op_3773wo",
+  "texto": "BOR"
+ },
+ {
+  "id": "op_2kbcvo",
+  "texto": "tam... bor"
+ },
+ {
+  "id": "op_xpgwo1",
+  "texto": "Diga TAM-BOR batendo na mesa, como se fosse o próprio tambor."
+ },
+ {
+  "id": "op_20yhqi",
+  "texto": "Dois pedaços, e o nariz treme no primeiro."
+ },
+ {
+  "id": "op_il26yz",
+  "texto": "São 2 batidas: tam... bor."
+ },
+ {
+  "id": "lt_f03_intro",
+  "texto": "A gráfica mandou duas provas de cada placa. Escolha a que está escrita do jeito certo."
+ },
+ {
+  "id": "lt_f03_dica",
+  "texto": "Fale as duas em voz alta. As duas soam igual — então a diferença está na LETRA, não no som."
+ },
+ {
+  "id": "op_4hkgh1",
+  "texto": "A academia da esquina quer o nome dela numa placa. Qual está certa?"
+ },
+ {
+  "id": "op_i864sm",
+  "texto": "ONBRO A ONBRO"
+ },
+ {
+  "id": "op_1ki934g",
+  "texto": "OMBRU A OMBRU"
+ },
+ {
+  "id": "op_4urzw1",
+  "texto": "Diga om-bro e escute o pedaço antes do B."
+ },
+ {
+  "id": "op_1cl9ci2",
+  "texto": "Você já viu esse mesmo pedaço em CAMPO e em SEMPRE."
+ },
+ {
+  "id": "op_u80vuy",
+  "texto": "É OMBRO A OMBRO. Toque nela para seguir."
+ },
+ {
+  "id": "op_vkis23",
+  "texto": "A loja de instrumentos do centro. Qual placa está certa?"
+ },
+ {
+  "id": "op_1ejbs6u",
+  "texto": "CASA DO TANBOR"
+ },
+ {
+  "id": "op_1ejb3ui",
+  "texto": "CASA DO TAMBÔR"
+ },
+ {
+  "id": "op_169d4a2",
+  "texto": "Fale tam-bor devagar, do jeito que você bateu na fase passada."
+ },
+ {
+  "id": "op_g2cuat",
+  "texto": "O pedaço antes do B é o mesmo de BOMBA."
+ },
+ {
+  "id": "op_11lqdrg",
+  "texto": "É CASA DO TAMBOR."
+ },
+ {
+  "id": "op_oq8rqo",
+  "texto": "A oficina que conserta bomba d'água. Qual placa está certa?"
+ },
+ {
+  "id": "op_lm7ne8",
+  "texto": "BONBA D'ÁGUA"
+ },
+ {
+  "id": "op_kf3u6n",
+  "texto": "BOMBA D'AGUA"
+ },
+ {
+  "id": "op_1g72n9x",
+  "texto": "Diga bom-ba. Que letra fecha o primeiro pedaço?"
+ },
+ {
+  "id": "op_4lj7ds",
+  "texto": "É a mesma letra que fechava o primeiro pedaço de CAMPO."
+ },
+ {
+  "id": "op_38qj1t",
+  "texto": "É BOMBA D'ÁGUA — e o A leva acento."
+ },
+ {
+  "id": "op_1l5zzsw",
+  "texto": "A PROVA DA GRÁFICA"
+ },
+ {
+  "id": "op_18zvvvq",
+  "texto": "As três placas saíram certas da gráfica!"
+ },
+ {
+  "id": "lt_f04_intro",
+  "texto": "O ajudante deixou um buraco em cada palavra. Leve a letra certa até ele."
+ },
+ {
+  "id": "lt_f04_dica",
+  "texto": "Toque no alto-falante e ouça a palavra inteira antes de escolher."
+ },
+ {
+  "id": "op_47ws7b",
+  "texto": "CA_PO"
+ },
+ {
+  "id": "op_3t3n",
+  "texto": "N"
+ },
+ {
+  "id": "op_3t3l",
+  "texto": "L"
+ },
+ {
+  "id": "op_19y73sa",
+  "texto": "Diga a palavra devagar e escute o nariz: cam-po. Que letra falta antes do P?"
+ },
+ {
+  "id": "op_26c9wr",
+  "texto": "Deixei só duas na bandeja. Escute de novo: cam-po."
+ },
+ {
+  "id": "op_4s6831",
+  "texto": "É o M. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "op_47i4zc",
+  "texto": "BO_BA"
+ },
+ {
+  "id": "op_3t3t",
+  "texto": "T"
+ },
+ {
+  "id": "op_hcx5cm",
+  "texto": "Ouça a palavra de novo e repare no que vem antes do B."
+ },
+ {
+  "id": "op_1pfotcc",
+  "texto": "Ficaram duas na bandeja. Qual delas você ouviu?"
+ },
+ {
+  "id": "op_1of3jk0",
+  "texto": "É o M: ele está aceso."
+ },
+ {
+  "id": "op_7mgc5f",
+  "texto": "SE_PRE"
+ },
+ {
+  "id": "op_3t3r",
+  "texto": "R"
+ },
+ {
+  "id": "op_1pnw5rs",
+  "texto": "Sem-pre. Escute o fim do primeiro pedaço."
+ },
+ {
+  "id": "op_nhzkvk",
+  "texto": "É a mesma letra de CAMPO e de BOMBA."
+ },
+ {
+  "id": "op_bmc4ig",
+  "texto": "É o M."
+ },
+ {
+  "id": "op_4gn49w",
+  "texto": "OMBRO"
+ },
+ {
+  "id": "op_4gcc2e",
+  "texto": "O_BRO"
+ },
+ {
+  "id": "op_3t3s",
+  "texto": "S"
+ },
+ {
+  "id": "op_2xqbl1",
+  "texto": "Om-bro: ponha a mão no ombro e diga."
+ },
+ {
+  "id": "op_14bfh8q",
+  "texto": "Antes do B mora sempre a mesma letra."
+ },
+ {
+  "id": "op_1jds8vl",
+  "texto": "A LETRA QUE FALTA"
+ },
+ {
+  "id": "op_17a6464",
+  "texto": "Leve a letra certa até o buraco da palavra."
+ },
+ {
+  "id": "op_1gfk6px",
+  "texto": "Toque na letra, arraste, ou digite no teclado."
+ },
+ {
+  "id": "op_eqa2ml",
+  "texto": "a palavra"
+ },
+ {
+  "id": "op_veieo1",
+  "texto": "Você fechou todas as palavras da vitrine!"
+ },
+ {
+  "id": "lt_f05_intro",
+  "texto": "Mais placas chegaram da gráfica. Escolha a que está certa — e repare que a letra é sempre a mesma."
+ },
+ {
+  "id": "lt_f05_dica",
+  "texto": "Você já fez isso na prova da gráfica. Olhe a letra antes do P ou do B."
+ },
+ {
+  "id": "op_ra1zjo",
+  "texto": "A loja de bicicletas quer TEMPO BOM na placa. Qual está certa?"
+ },
+ {
+  "id": "op_4rjkdl",
+  "texto": "TENPO BOM"
+ },
+ {
+  "id": "op_1ijzhny",
+  "texto": "TEMPU BOM"
+ },
+ {
+  "id": "op_692w8n",
+  "texto": "Fale tem-po devagar."
+ },
+ {
+  "id": "op_1unncnv",
+  "texto": "É a mesma letra de CAMPO e de SEMPRE."
+ },
+ {
+  "id": "op_1a7bu2n",
+  "texto": "É TEMPO BOM."
+ },
+ {
+  "id": "op_aofbh3",
+  "texto": "A sorveteria da praça. Qual placa está certa?"
+ },
+ {
+  "id": "op_9ewa7y",
+  "texto": "SONBRA FRESCA"
+ },
+ {
+  "id": "op_12k732",
+  "texto": "SOMBRAA FRESCA"
+ },
+ {
+  "id": "op_f0rovt",
+  "texto": "Fale som-bra e escute o pedaço antes do B."
+ },
+ {
+  "id": "op_14bivnk",
+  "texto": "Antes de B mora sempre a mesma letra."
+ },
+ {
+  "id": "op_s4jwj8",
+  "texto": "É SOMBRA FRESCA."
+ },
+ {
+  "id": "op_1y1rrqr",
+  "texto": "A loja de lâmpadas do centro. Qual está certa?"
+ },
+ {
+  "id": "op_7piq1g",
+  "texto": "LÂNPADA ACESA"
+ },
+ {
+  "id": "op_1tf808i",
+  "texto": "LAMPADA ACESA"
+ },
+ {
+  "id": "op_167mib8",
+  "texto": "Fale lâm-pa-da: o primeiro pedaço tem chapéu no A."
+ },
+ {
+  "id": "op_17hnf3u",
+  "texto": "Antes do P vem a letra que você já conhece — e o A leva acento."
+ },
+ {
+  "id": "op_16w8gju",
+  "texto": "É LÂMPADA ACESA."
+ },
+ {
+  "id": "op_vsyoe5",
+  "texto": "A SEGUNDA REMESSA"
+ },
+ {
+  "id": "op_1en93hh",
+  "texto": "Mais três placas conferidas!"
+ },
+ {
+  "id": "lt_f06_intro",
+  "texto": "O Pincel vai dizer o nome. Escreva do jeito certo — pode usar o teclado da tela ou o teclado de verdade."
+ },
+ {
+  "id": "lt_f06_dica",
+  "texto": "Fale a palavra baixinho antes de escrever. O pedaço do nariz vem antes do P ou do B."
+ },
+ {
+  "id": "op_pcuigf",
+  "texto": "O lugar aberto onde o time do bairro joga bola."
+ },
+ {
+  "id": "op_1dkxxtl",
+  "texto": "Diga devagar: CAM-PO."
+ },
+ {
+  "id": "op_l2vmmo",
+  "texto": "A máquina que puxa a água do poço."
+ },
+ {
+  "id": "op_130v1c5",
+  "texto": "BOM-BA: escute a letra que fecha o primeiro pedaço."
+ },
+ {
+  "id": "op_fsx34x",
+  "texto": "O instrumento que a banda bate no desfile."
+ },
+ {
+  "id": "op_1ehzj45",
+  "texto": "TAM-BOR."
+ },
+ {
+  "id": "op_1bxh7gy",
+  "texto": "Escreva o nome da loja, letra por letra."
+ },
+ {
+  "id": "op_dyig1a",
+  "texto": "Os três nomes já podem ir para a placa!"
+ },
+ {
+  "id": "lt_f07_intro",
+  "texto": "O jornal do bairro perdeu uma palavra de cada anúncio. Escolha a que fecha a frase."
+ },
+ {
+  "id": "lt_f07_dica",
+  "texto": "Leia a frase inteira em voz alta antes de escolher — a palavra que falta tem que soar bem ali."
+ },
+ {
+  "id": "op_1pv9vh7",
+  "texto": "Conserto de"
+ },
+ {
+  "id": "op_z6bk27",
+  "texto": "d'água, atendo no mesmo dia."
+ },
+ {
+  "id": "op_47ihl3",
+  "texto": "bonba"
+ },
+ {
+  "id": "op_47ih0x",
+  "texto": "bomma"
+ },
+ {
+  "id": "op_1idsvnw",
+  "texto": "Diga bom-ba e escolha a que tem a letra do nariz antes do B."
+ },
+ {
+  "id": "op_1v7bhnb",
+  "texto": "Flores frescas"
+ },
+ {
+  "id": "op_1pwko2e",
+  "texto": "na porta do mercado."
+ },
+ {
+  "id": "op_12risn5",
+  "texto": "semppre"
+ },
+ {
+  "id": "op_118ojvp",
+  "texto": "Sem-pre: uma letra só antes do P."
+ },
+ {
+  "id": "op_dvuukk",
+  "texto": "Aulas de"
+ },
+ {
+  "id": "op_mw4a17",
+  "texto": "para crianças, aos sábados."
+ },
+ {
+  "id": "op_878p2j",
+  "texto": "tanbor"
+ },
+ {
+  "id": "op_1lixehr",
+  "texto": "tambour"
+ },
+ {
+  "id": "op_y1ctf9",
+  "texto": "É o instrumento que você bateu lá atrás: tam-bor."
+ },
+ {
+  "id": "op_1v4aw2g",
+  "texto": "Toque na palavra que completa o anúncio."
+ },
+ {
+  "id": "op_ak936q",
+  "texto": "Leia o anúncio inteiro antes de escolher."
+ },
+ {
+  "id": "op_dqnwis",
+  "texto": "Os três anúncios já podem ir para o jornal!"
+ },
+ {
+  "id": "lt_f08_intro",
+  "texto": "Cinco palavras da vitrine se esconderam no quadro. Toque na primeira e na última letra de cada uma."
+ },
+ {
+  "id": "lt_f08_dica",
+  "texto": "Todas as cinco têm a mesma letra antes do P ou do B. Procure por ela."
+ },
+ {
+  "id": "op_1nsw4c9",
+  "texto": "A VITRINE DAS PALAVRAS"
+ },
+ {
+  "id": "op_1y0ha00",
+  "texto": "Lugar aberto onde o time do bairro joga bola."
+ },
+ {
+  "id": "op_1rcvujz",
+  "texto": "Máquina que puxa a água do poço."
+ },
+ {
+  "id": "op_ebxp81",
+  "texto": "O contrário de nunca."
+ },
+ {
+  "id": "op_1te80oi",
+  "texto": "Instrumento que a banda bate no desfile."
+ },
+ {
+  "id": "op_fv50cs",
+  "texto": "A parte do corpo onde a mochila se apoia."
+ },
+ {
+  "id": "lt_f09_intro",
+  "texto": "Cada dica é uma palavra que ele já pintou em alguma placa da cidade."
+ },
+ {
+  "id": "lt_f09_dica",
+  "texto": "Se travar, lembre da placa onde você viu a palavra."
+ },
+ {
+  "id": "op_mmypkh",
+  "texto": "ABCMOPRSU"
+ },
+ {
+  "id": "lt_f10_intro",
+  "texto": "O pano cobriu a placa nova. Descubra a palavra letra por letra."
+ },
+ {
+  "id": "lt_f10_dica",
+  "texto": "Comece pelas vogais: elas aparecem em quase toda palavra."
+ },
+ {
+  "id": "op_877x2z",
+  "texto": "TAMBEM"
+ },
+ {
+  "id": "op_8780fz",
+  "texto": "TAMBÉM"
+ },
+ {
+  "id": "op_173vdb6",
+  "texto": "A palavra que a gente usa para dizer 'eu faço isso também'."
+ },
+ {
+  "id": "op_1dldbln",
+  "texto": "CAMPEAO"
+ },
+ {
+  "id": "op_1dldewt",
+  "texto": "CAMPEÃO"
+ },
+ {
+  "id": "op_1lfzzwv",
+  "texto": "Quem ganhou o campeonato de futebol do bairro."
+ },
+ {
+  "id": "op_mz6v2s",
+  "texto": "BOMBEIRO"
+ },
+ {
+  "id": "op_1i4e6xx",
+  "texto": "Quem apaga o incêndio e ajuda na enchente."
+ },
+ {
+  "id": "lt_f11_intro",
+  "texto": "Ache o par: de um lado a palavra, do outro a figura dela."
+ },
+ {
+  "id": "lt_f11_dica",
+  "texto": "Toque no alto-falante da carta para ouvir a palavra antes de decidir."
+ },
+ {
+  "id": "op_81cymo",
+  "texto": "o campo de futebol do bairro"
+ },
+ {
+  "id": "op_1ty342c",
+  "texto": "lt_campo"
+ },
+ {
+  "id": "op_1weomxb",
+  "texto": "a bomba que puxa a água"
+ },
+ {
+  "id": "op_1txogud",
+  "texto": "lt_bomba"
+ },
+ {
+  "id": "op_16atxys",
+  "texto": "o tambor da banda"
+ },
+ {
+  "id": "op_1kbkh9l",
+  "texto": "lt_tambor"
+ },
+ {
+  "id": "op_156sx12",
+  "texto": "LÂMPADA"
+ },
+ {
+  "id": "op_1sk9qr9",
+  "texto": "a lâmpada do poste"
+ },
+ {
+  "id": "op_1i17w0k",
+  "texto": "lt_lampada"
+ },
+ {
+  "id": "op_4hebmc",
+  "texto": "POMBA"
+ },
+ {
+  "id": "op_1qh9sf9",
+  "texto": "a pomba da praça"
+ },
+ {
+  "id": "op_1u7kbpv",
+  "texto": "lt_pomba"
+ },
+ {
+  "id": "lt_aquecimento_intro",
+  "texto": "Antes da segunda metade, o Pincel confere o que você já pegou. Nada novo aqui — é tudo o que já passou."
+ },
+ {
+  "id": "lt_aquecimento_dica",
+  "texto": "Vá rápido: você já respondeu coisas assim."
+ },
+ {
+  "id": "op_1wzndcn",
+  "texto": "CA_PO — que letra entra?"
+ },
+ {
+  "id": "op_3hoez",
+  "texto": "NH"
+ },
+ {
+  "id": "op_10kn92g",
+  "texto": "BO_BA — que letra entra?"
+ },
+ {
+  "id": "op_3hodw",
+  "texto": "MB"
+ },
+ {
+  "id": "op_14q6c3",
+  "texto": "SE_PRE — que letra entra?"
+ },
+ {
+  "id": "op_3hoea",
+  "texto": "MP"
+ },
+ {
+  "id": "op_5wny2u",
+  "texto": "O_BRO — que letra entra?"
+ },
+ {
+  "id": "op_16pnu0c",
+  "texto": "TA_BOR — que letra entra?"
+ },
+ {
+  "id": "op_3hoet",
+  "texto": "NB"
+ },
+ {
+  "id": "op_1w5jprz",
+  "texto": "CA_PEÃO — que letra entra?"
+ },
+ {
+  "id": "lt_f12_intro",
+  "texto": "Estas placas são de outras ruas. Leve a letra certa até o buraco — e desta vez olhe bem o que vem depois dele."
+ },
+ {
+  "id": "lt_f12_dica",
+  "texto": "Fale a palavra em voz alta e escute a letra que vem DEPOIS do buraco."
+ },
+ {
+  "id": "op_4hecx7",
+  "texto": "PONTE"
+ },
+ {
+  "id": "op_4he0bg",
+  "texto": "PO_TE"
+ },
+ {
+  "id": "op_3t3m",
+  "texto": "M"
+ },
+ {
+  "id": "op_4xfvtx",
+  "texto": "Pon-te: o nariz treme igual. Mas olhe a letra depois do buraco."
+ },
+ {
+  "id": "op_odpa3p",
+  "texto": "Depois do buraco vem T, e não P nem B."
+ },
+ {
+  "id": "op_1rpp2ol",
+  "texto": "É o N. Ele está aceso."
+ },
+ {
+  "id": "op_47x4wq",
+  "texto": "CANTO"
+ },
+ {
+  "id": "op_47wsaz",
+  "texto": "CA_TO"
+ },
+ {
+  "id": "op_1nhfk1v",
+  "texto": "Can-to. Que letra vem logo depois do buraco?"
+ },
+ {
+  "id": "op_z18x1h",
+  "texto": "Vem T. E antes de T não mora o M."
+ },
+ {
+  "id": "op_bmc4jd",
+  "texto": "É o N."
+ },
+ {
+  "id": "op_4ezb6x",
+  "texto": "MANGA"
+ },
+ {
+  "id": "op_4eyyl6",
+  "texto": "MA_GA"
+ },
+ {
+  "id": "op_1vd90k2",
+  "texto": "Man-ga: a fruta do quintal."
+ },
+ {
+  "id": "op_n9wcb9",
+  "texto": "Depois do buraco vem G."
+ },
+ {
+  "id": "op_4lf60h",
+  "texto": "VENTO"
+ },
+ {
+  "id": "op_4leteq",
+  "texto": "VE_TO"
+ },
+ {
+  "id": "op_3t3c",
+  "texto": "C"
+ },
+ {
+  "id": "op_9jano7",
+  "texto": "Ven-to: o que balança as folhas."
+ },
+ {
+  "id": "op_n9wcn6",
+  "texto": "Depois do buraco vem T."
+ },
+ {
+  "id": "op_vm588c",
+  "texto": "Leve a letra certa até o buraco — olhe o que vem depois dele."
+ },
+ {
+  "id": "op_1rgni2y",
+  "texto": "Estas placas eram de outra família!"
+ },
+ {
+  "id": "lt_f13_intro",
+  "texto": "O Pincel guarda os moldes em duas gavetas. Ponha cada palavra na gaveta dela."
+ },
+ {
+  "id": "lt_f13_dica",
+  "texto": "Olhe a letra que vem DEPOIS do M ou do N. É ela que decide a gaveta."
+ },
+ {
+  "id": "op_1tqc6sm",
+  "texto": "COM M(antes de P e de B)"
+ },
+ {
+  "id": "op_12tirkk",
+  "texto": "COM N(antes das outras)"
+ },
+ {
+  "id": "op_xzxfzq",
+  "texto": "Toque na palavra e depois na gaveta certa."
+ },
+ {
+  "id": "op_9mai7f",
+  "texto": "Olhe a letra que vem logo depois do buraco."
+ },
+ {
+  "id": "op_1dm4v3z",
+  "texto": "Se depois do buraco vier P ou B, a palavra é da primeira gaveta. Qualquer outra letra, é da segunda."
+ },
+ {
+  "id": "op_1m2b1ot",
+  "texto": "A gaveta certa está com a borda acesa."
+ },
+ {
+  "id": "lt_f14_intro",
+  "texto": "Três destas palavras pedem a mesma letra. Ache a que não pertence ao grupo."
+ },
+ {
+  "id": "lt_f14_dica",
+  "texto": "Não olhe o começo da palavra: olhe a letra que vem depois do M ou do N."
+ },
+ {
+  "id": "op_k808fd",
+  "texto": "O ARMÁRIO DOS MOLDES"
+ },
+ {
+  "id": "op_1yot1de",
+  "texto": "Três destas pedem a MESMA letra no buraco. Qual não pertence?"
+ },
+ {
+  "id": "op_bi38gb",
+  "texto": "Leia cada uma e veja o que vem logo depois do buraco."
+ },
+ {
+  "id": "op_1ep0jx",
+  "texto": "Três delas têm P ou B depois do buraco. Uma tem outra letra."
+ },
+ {
+  "id": "op_5mwvnj",
+  "texto": "É PO_TE: depois do buraco vem T, então ali entra N."
+ },
+ {
+  "id": "op_1ipm58q",
+  "texto": "Nas outras três vem P ou B depois; nesta vem T."
+ },
+ {
+  "id": "op_pzy0gw",
+  "texto": "Porque PO_TE é a palavra mais curta."
+ },
+ {
+  "id": "op_1syo0pt",
+  "texto": "Porque PO_TE começa com P."
+ },
+ {
+  "id": "op_qyzau6",
+  "texto": "E por que ela ficou de fora?"
+ },
+ {
+  "id": "op_erp2s6",
+  "texto": "A SEGUNDA PRATELEIRA"
+ },
+ {
+  "id": "op_23tqhg",
+  "texto": "De novo: qual não é da mesma família?"
+ },
+ {
+  "id": "op_1vcineq",
+  "texto": "Olhe só a letra depois do buraco de cada uma."
+ },
+ {
+  "id": "op_azeaav",
+  "texto": "Três têm T ou G. Uma tem P."
+ },
+ {
+  "id": "op_1skdhbj",
+  "texto": "É SE_PRE: antes de P entra M."
+ },
+ {
+  "id": "op_mbi3sf",
+  "texto": "Nas outras três vem T ou G depois; nesta vem P."
+ },
+ {
+  "id": "op_1063gya",
+  "texto": "Porque SE_PRE tem seis letras."
+ },
+ {
+  "id": "op_1x9h92j",
+  "texto": "Porque SE_PRE começa com S."
+ },
+ {
+  "id": "lt_f15_intro",
+  "texto": "A gráfica só imprime o que está escrito certo. Deixe passar as certas e segure as erradas."
+ },
+ {
+  "id": "lt_f15_dica",
+  "texto": "Leia cada ficha e confira a letra antes do P ou do B."
+ },
+ {
+  "id": "op_u2b30s",
+  "texto": "Só passam as palavras escritas certas."
+ },
+ {
+  "id": "op_txwi9r",
+  "texto": "escrita certa"
+ },
+ {
+  "id": "op_1p71hn4",
+  "texto": "Fale a palavra e olhe a letra antes do P ou do B."
+ },
+ {
+  "id": "op_13q0272",
+  "texto": "Olhe CAMPO: antes do P está o M. Essa passa."
+ },
+ {
+  "id": "op_17xwicv",
+  "texto": "As que ainda passam estão com a moldura acesa:"
+ },
+ {
+  "id": "op_1jgf9on",
+  "texto": "Agora só passam as que pedem N no lugar do buraco."
+ },
+ {
+  "id": "op_5onga9",
+  "texto": "pede N"
+ },
+ {
+  "id": "op_477b20",
+  "texto": "Olhe a letra logo depois do buraco."
+ },
+ {
+  "id": "op_1ofpz96",
+  "texto": "Se vier P ou B, a palavra pede M — essa fica de fora."
+ },
+ {
+  "id": "op_1fwqqy6",
+  "texto": "As que ainda passam estão acesas:"
+ },
+ {
+  "id": "lt_f16_intro",
+  "texto": "Ligue a palavra ao motivo de ela levar aquela letra."
+ },
+ {
+  "id": "lt_f16_dica",
+  "texto": "O motivo está sempre na letra que vem DEPOIS."
+ },
+ {
+  "id": "op_1mgzhwy",
+  "texto": "leva M porque depois vem P"
+ },
+ {
+  "id": "op_1mgzhwk",
+  "texto": "leva M porque depois vem B"
+ },
+ {
+  "id": "op_9xgs8n",
+  "texto": "leva N porque depois vem T"
+ },
+ {
+  "id": "op_9xgs8a",
+  "texto": "leva N porque depois vem G"
+ },
+ {
+  "id": "op_acedjl",
+  "texto": "Toque na palavra e depois no motivo dela."
+ },
+ {
+  "id": "op_hi2evj",
+  "texto": "Cada palavra com o seu motivo!"
+ },
+ {
+  "id": "op_18ga0t1",
+  "texto": "Leia a palavra e veja que letra vem depois do M ou do N."
+ },
+ {
+  "id": "op_fk60g6",
+  "texto": "P e B pedem M. As outras letras pedem N."
+ },
+ {
+  "id": "op_1i1aqey",
+  "texto": "O par certo está aceso."
+ },
+ {
+  "id": "lt_f17_intro",
+  "texto": "O Pincel guardou uma placa embrulhada. Descubra qual é — cada pista conta mais."
+ },
+ {
+  "id": "lt_f17_dica",
+  "texto": "Quanto menos pista você usar, mais estrela ganha."
+ },
+ {
+  "id": "op_bj3m0a",
+  "texto": "Eu tenho duas letras juntas no meio: uma delas é o M."
+ },
+ {
+  "id": "op_3pa26w",
+  "texto": "Eu apareço na enchente e no incêndio, sempre de vermelho."
+ },
+ {
+  "id": "op_h7r3lc",
+  "texto": "O meu nome começa igual ao de BOMBA."
+ },
+ {
+  "id": "op_nmho51",
+  "texto": "BONBEIRO"
+ },
+ {
+  "id": "op_16y4aq1",
+  "texto": "PADEIRO"
+ },
+ {
+  "id": "op_bbae4f",
+  "texto": "PEDREIRO"
+ },
+ {
+  "id": "op_28tiw",
+  "texto": "Eu levo M antes do P, como CAMPO."
+ },
+ {
+  "id": "op_1jvlmip",
+  "texto": "Eu ganhei o campeonato do bairro."
+ },
+ {
+  "id": "op_1ehyvmu",
+  "texto": "O meu nome termina com -ÃO."
+ },
+ {
+  "id": "op_1dm2tz2",
+  "texto": "CANPEÃO"
+ },
+ {
+  "id": "op_l1s2f9",
+  "texto": "CORREDOR"
+ },
+ {
+  "id": "op_1xowyp3",
+  "texto": "TORCEDOR"
+ },
+ {
+  "id": "lt_f18_intro",
+  "texto": "O cardápio foi impresso com um erro em cada linha. Ache e conserte."
+ },
+ {
+  "id": "lt_f18_dica",
+  "texto": "Leia a linha inteira antes de escolher o pedaço."
+ },
+ {
+  "id": "op_1a2qyqe",
+  "texto": "LANCHONETE DA PRAÇA"
+ },
+ {
+  "id": "op_gf156q",
+  "texto": "CARDÁPIO DA SEMANA"
+ },
+ {
+  "id": "op_5aiav1",
+  "texto": "Uma palavra desta linha está errada. Ache e conserte."
+ },
+ {
+  "id": "op_ykrr3z",
+  "texto": "SUCO"
+ },
+ {
+  "id": "op_3ho5q",
+  "texto": "DE"
+ },
+ {
+  "id": "op_1yw8cwh",
+  "texto": "GELADO"
+ },
+ {
+  "id": "op_5zj1gh",
+  "texto": "É SEMPRE: antes de P vem M. E repare que MANGA está certa, com N."
+ },
+ {
+  "id": "op_j8ffzs",
+  "texto": "Leia a linha baixinho, palavra por palavra."
+ },
+ {
+  "id": "op_nitay5",
+  "texto": "Duas palavras têm o som do nariz. Só uma está errada."
+ },
+ {
+  "id": "op_1y42sk6",
+  "texto": "Era esta: eu marquei para você."
+ },
+ {
+  "id": "op_17xt1c9",
+  "texto": "Fale sem-pre e escute a letra antes do P."
+ },
+ {
+  "id": "op_ijkv21",
+  "texto": "Antes de P e de B a letra é sempre a mesma."
+ },
+ {
+  "id": "op_cde6jd",
+  "texto": "A SEGUNDA LINHA"
+ },
+ {
+  "id": "op_gkg7vm",
+  "texto": "Nesta linha também tem uma palavra trocada."
+ },
+ {
+  "id": "op_5m5qby",
+  "texto": "PASTEL"
+ },
+ {
+  "id": "op_3774qs",
+  "texto": "COM"
+ },
+ {
+  "id": "op_6n9vbm",
+  "texto": "QUEIJO"
+ },
+ {
+  "id": "op_1aamgqq",
+  "texto": "É CAMPO, com M antes do P."
+ },
+ {
+  "id": "op_14tj1km",
+  "texto": "Uma palavra tem o som do nariz antes do P."
+ },
+ {
+  "id": "op_1s838as",
+  "texto": "É a terceira palavra da linha."
+ },
+ {
+  "id": "op_1nf5z2o",
+  "texto": "Marquei para você: agora escolha a certa."
+ },
+ {
+  "id": "op_17v9er2",
+  "texto": "O fim da palavra é -PO. O que muda é a letra antes do P."
+ },
+ {
+  "id": "op_oo0wc2",
+  "texto": "Antes de P mora o M."
+ },
+ {
+  "id": "op_1h50ewr",
+  "texto": "Era CAMPO."
+ },
+ {
+  "id": "lt_f19_intro",
+  "texto": "Este cartaz vai para o mural da escola. Pinte as palavras que estão escritas erradas."
+ },
+ {
+  "id": "lt_f19_dica",
+  "texto": "Leia o cartaz inteiro em voz alta. Onde a sua boca faz o som do nariz antes de P ou B, tem que ter M."
+ },
+ {
+  "id": "op_4fs7ue",
+  "texto": "A festa do bairro vai ter"
+ },
+ {
+  "id": "op_1sxbxs0",
+  "texto": "de futebol, banda com"
+ },
+ {
+  "id": "op_hqzv4n",
+  "texto": "e comida"
+ },
+ {
+  "id": "op_1eogfsv",
+  "texto": "quentinha. Traga o guarda-chuva: o"
+ },
+ {
+  "id": "op_4k0ay2",
+  "texto": "TEMPO"
+ },
+ {
+  "id": "op_tnnu4h",
+  "texto": "pode virar. Os"
+ },
+ {
+  "id": "op_1xb2ky0",
+  "texto": "BONBEIROS"
+ },
+ {
+  "id": "op_2boz0",
+  "texto": "vão estar na entrada, e a"
+ },
+ {
+  "id": "op_mmiqf7",
+  "texto": "fica aberta até tarde."
+ },
+ {
+  "id": "op_15gp6np",
+  "texto": "as palavras ERRADAS"
+ },
+ {
+  "id": "lt_f20_intro",
+  "texto": "O molde da palavra caiu e os pedaços se espalharam. Junte na ordem certa."
+ },
+ {
+  "id": "lt_f20_dica",
+  "texto": "Diga a palavra devagar: qual pedaço a boca fala primeiro?"
+ },
+ {
+  "id": "op_3hogq",
+  "texto": "PE"
+ },
+ {
+  "id": "op_3href",
+  "texto": "ÃO"
+ },
+ {
+  "id": "op_3774dz",
+  "texto": "CAN"
+ },
+ {
+  "id": "op_e1cv0x",
+  "texto": "CAM... PE... ÃO"
+ },
+ {
+  "id": "op_1fhmug2",
+  "texto": "Fale devagar: qual pedaço vem primeiro?"
+ },
+ {
+  "id": "op_xlx44o",
+  "texto": "O primeiro pedaço tem o som do nariz e termina em M."
+ },
+ {
+  "id": "op_1u805yc",
+  "texto": "É o CAM: ele está aceso."
+ },
+ {
+  "id": "op_3773n9",
+  "texto": "BEI"
+ },
+ {
+  "id": "op_3hoiu",
+  "texto": "RO"
+ },
+ {
+  "id": "op_3773wk",
+  "texto": "BON"
+ },
+ {
+  "id": "op_1iz7kyw",
+  "texto": "BOM... BEI... RO"
+ },
+ {
+  "id": "op_13jz988",
+  "texto": "Qual pedaço a boca fala primeiro?"
+ },
+ {
+  "id": "op_mdezfq",
+  "texto": "Antes do B do segundo pedaço mora o M."
+ },
+ {
+  "id": "op_b6juqx",
+  "texto": "É o BOM."
+ },
+ {
+  "id": "op_377f8g",
+  "texto": "LÂM"
+ },
+ {
+  "id": "op_3hogm",
+  "texto": "PA"
+ },
+ {
+  "id": "op_3ho5m",
+  "texto": "DA"
+ },
+ {
+  "id": "op_377f9e",
+  "texto": "LÃN"
+ },
+ {
+  "id": "op_3hoka",
+  "texto": "TA"
+ },
+ {
+  "id": "op_161v1qi",
+  "texto": "LÂM... PA... DA"
+ },
+ {
+  "id": "op_2nx3xp",
+  "texto": "Diga LÂM-PA-DA devagar."
+ },
+ {
+  "id": "op_184ttql",
+  "texto": "O primeiro pedaço leva chapéu no A e termina em M."
+ },
+ {
+  "id": "op_b6u8o6",
+  "texto": "É o LÂM."
+ },
+ {
+  "id": "op_4npwwg",
+  "texto": "JUNTE OS PEDAÇOS"
+ },
+ {
+  "id": "op_16hxo4n",
+  "texto": "Junte os pedaços e forme a palavra da figura."
+ },
+ {
+  "id": "op_dl010e",
+  "texto": "Toque no pedaço certo. Ele escorrega até a forma."
+ },
+ {
+  "id": "op_13some2",
+  "texto": "em pedaços"
+ },
+ {
+  "id": "lt_f21_intro",
+  "texto": "Cinco palavras se esconderam no quadro — e nenhuma delas leva M. Toque na primeira e na última letra de cada uma."
+ },
+ {
+  "id": "lt_f21_dica",
+  "texto": "Todas estas pedem N: olhe a letra que vem depois."
+ },
+ {
+  "id": "op_477pew",
+  "texto": "BANCO"
+ },
+ {
+  "id": "op_gp626w",
+  "texto": "O QUADRO DA OUTRA RUA"
+ },
+ {
+  "id": "op_teve1s",
+  "texto": "Passa por cima do rio e liga um lado ao outro."
+ },
+ {
+  "id": "op_hcqkr7",
+  "texto": "O lugar onde duas paredes se encontram."
+ },
+ {
+  "id": "op_jr22gp",
+  "texto": "Fruta amarela e doce do quintal."
+ },
+ {
+  "id": "op_1r1bk1r",
+  "texto": "Você não vê, mas ele balança as folhas."
+ },
+ {
+  "id": "op_18f6ew2",
+  "texto": "Onde a gente senta na praça."
+ },
+ {
+  "id": "lt_f22_intro",
+  "texto": "Monte a frase que vai embaixo do nome da loja."
+ },
+ {
+  "id": "lt_f22_dica",
+  "texto": "Comece pela palavrinha que abre a frase."
+ },
+ {
+  "id": "op_956q4j",
+  "texto": "a palavrinha o ou a, que abre a frase"
+ },
+ {
+  "id": "op_o7s5xb",
+  "texto": "o nome da coisa que está na placa"
+ },
+ {
+  "id": "op_218rsc",
+  "texto": "como a coisa é"
+ },
+ {
+  "id": "op_tzmvtg",
+  "texto": "o que a coisa fez"
+ },
+ {
+  "id": "op_1bxuksk",
+  "texto": "quando aconteceu"
+ },
+ {
+  "id": "lt_f23_intro",
+  "texto": "O Pincel fotografou a placa consertada. Escreva a legenda da foto."
+ },
+ {
+  "id": "lt_f23_dica",
+  "texto": "Diga o que tem na foto e como está. As palavras de apoio entram com um toque."
+ },
+ {
+  "id": "op_7qyi2x",
+  "texto": "FOTO 1 DE 2"
+ },
+ {
+  "id": "op_ptjcgp",
+  "texto": "Escreva a legenda desta foto: o que tem e como ficou."
+ },
+ {
+  "id": "op_zw6pc7",
+  "texto": "a placa"
+ },
+ {
+  "id": "op_3e1c0s",
+  "texto": "da padaria"
+ },
+ {
+  "id": "op_487u4x",
+  "texto": "com M"
+ },
+ {
+  "id": "op_f1h4h6",
+  "texto": "na Rua XV"
+ },
+ {
+  "id": "op_yknrw9",
+  "texto": "nova"
+ },
+ {
+  "id": "op_1ba6ck4",
+  "texto": "A placa da padaria ficou"
+ },
+ {
+  "id": "op_1gqxj6i",
+  "texto": "a placa da padaria ficou escrita certa com m"
+ },
+ {
+  "id": "op_8e9b56",
+  "texto": "FOTO 2 DE 2"
+ },
+ {
+  "id": "op_1hkitqu",
+  "texto": "E esta, da placa da ponte: o que tem e como ficou?"
+ },
+ {
+  "id": "op_ilmvao",
+  "texto": "da ponte"
+ },
+ {
+  "id": "op_487u4y",
+  "texto": "com N"
+ },
+ {
+  "id": "op_1wh3nf0",
+  "texto": "perto do rio"
+ },
+ {
+  "id": "op_42kmu",
+  "texto": "grande"
+ },
+ {
+  "id": "op_6b57qg",
+  "texto": "A placa da ponte ficou"
+ },
+ {
+  "id": "op_b00c6n",
+  "texto": "a placa da ponte ficou escrita certa com n"
+ },
+ {
+  "id": "lt_f24_intro",
+  "texto": "As últimas placas da rua. Escreva o nome de cada uma."
+ },
+ {
+  "id": "lt_f24_dica",
+  "texto": "Fale a palavra antes de escrever e olhe a letra que vem depois do som do nariz."
+ },
+ {
+  "id": "op_1k23lv4",
+  "texto": "BOM-BEI-RO: antes do segundo B vem M."
+ },
+ {
+  "id": "op_1jsgesb",
+  "texto": "PON-TE: depois vem T, então não é M."
+ },
+ {
+  "id": "op_sq6txx",
+  "texto": "LAMPADA"
+ },
+ {
+  "id": "op_1lr9bte",
+  "texto": "Acende no poste quando escurece."
+ },
+ {
+  "id": "op_cpcm0a",
+  "texto": "LAM-PA-DA: antes do P vem M."
+ },
+ {
+  "id": "op_1i6spv1",
+  "texto": "Escreva o nome da placa, letra por letra."
+ },
+ {
+  "id": "op_17q1htb",
+  "texto": "As três placas grandes ficaram prontas!"
+ },
+ {
+  "id": "lt_f25_intro",
+  "texto": "Ele fala, você escreve. Pode usar o teclado da tela ou o de verdade."
+ },
+ {
+  "id": "lt_f25_dica",
+  "texto": "Repita a palavra baixinho antes de escrever."
+ },
+ {
+  "id": "op_1wt4ngx",
+  "texto": "Diga baixinho: CAM-PO."
+ },
+ {
+  "id": "op_15m3e95",
+  "texto": "Diga baixinho: PON-TE. Olhe a letra depois do buraco."
+ },
+ {
+  "id": "op_l3f4bl",
+  "texto": "São três pedaços: BOM-BEI-RO."
+ },
+ {
+  "id": "op_oe17at",
+  "texto": "HJKQWXYZ"
+ },
+ {
+  "id": "lt_f26_intro",
+  "texto": "Escolha a placa certa — e depois conte por que ela é a certa."
+ },
+ {
+  "id": "lt_f26_dica",
+  "texto": "Não é decorar: é dizer o que você olhou para decidir."
+ },
+ {
+  "id": "op_1fy1k7l",
+  "texto": "A PLACA DA ACADEMIA"
+ },
+ {
+  "id": "op_b1nkl7",
+  "texto": "A academia quer a palavra OMBRO na placa. Qual está certa?"
+ },
+ {
+  "id": "op_qooj0q",
+  "texto": "Fale a palavra e escute a letra antes do B."
+ },
+ {
+  "id": "op_8u4mpm",
+  "texto": "Risquei uma que não serve. Sobrou a que tem a letra certa antes do B."
+ },
+ {
+  "id": "op_2ss5gi",
+  "texto": "Deu certo! Mas por que essa é a certa?"
+ },
+ {
+  "id": "op_uyx077",
+  "texto": "Que letra vem depois do buraco nessa palavra?"
+ },
+ {
+  "id": "op_1yy8q1f",
+  "texto": "E quando vem P ou B, que letra entra antes?"
+ },
+ {
+  "id": "op_17itol7",
+  "texto": "Porque depois vem B, e antes de B entra M."
+ },
+ {
+  "id": "op_1wfvfg1",
+  "texto": "Porque a palavra é grande."
+ },
+ {
+  "id": "op_1c9k7zr",
+  "texto": "Porque eu decorei essa palavra."
+ },
+ {
+  "id": "lt_f27_intro",
+  "texto": "O Pincel vai pintar sozinho a próxima placa. Ensine a ele a regra que você usou o tempo todo."
+ },
+ {
+  "id": "lt_f27_dica",
+  "texto": "Pense no que você olhou em cada palavra antes de escolher a letra."
+ },
+ {
+  "id": "op_r4f06i",
+  "texto": "A PLACA DO CAMPO"
+ },
+ {
+  "id": "op_1llvd9s",
+  "texto": "O Pincel tem que pintar CA_PO e não sabe que letra pôr. Ensine a regra a ele."
+ },
+ {
+  "id": "op_nrv1vf",
+  "texto": "SE depois do buraco vem P ou B, ENTÃO eu ponho..."
+ },
+ {
+  "id": "op_32yorv",
+  "texto": "a letra M"
+ },
+ {
+  "id": "op_32yorw",
+  "texto": "a letra N"
+ },
+ {
+  "id": "op_4fa3qg",
+  "texto": "monte"
+ },
+ {
+  "id": "op_f3k4b1",
+  "texto": "as duas, MN"
+ },
+ {
+  "id": "op_3hoe8",
+  "texto": "MN"
+ },
+ {
+  "id": "op_1txic0x",
+  "texto": "nenhuma, deixo o buraco"
+ },
+ {
+  "id": "op_1oaxj3c",
+  "texto": "Ficou CAMPO! A dona da padaria já pode pendurar."
+ },
+ {
+  "id": "op_1t9hzyy",
+  "texto": "Olhe a placa: com essa letra a palavra não fica igual à que a gente fala."
+ },
+ {
+  "id": "op_1yv81r0",
+  "texto": "Pense no que você olhou nas outras placas antes de escolher."
+ },
+ {
+  "id": "op_1dk31g3",
+  "texto": "Depois do buraco vem P. Que letra você pôs nesses casos?"
+ },
+ {
+  "id": "op_1ql9rqt",
+  "texto": "A regra do M está acesa: toque nela para ensinar o Pincel."
+ },
+ {
+  "id": "op_chni5u",
+  "texto": "A PLACA DA PONTE"
+ },
+ {
+  "id": "op_11a3zcs",
+  "texto": "Agora ele tem que pintar PO_TE. Ensine a regra desta."
+ },
+ {
+  "id": "op_gsfg6g",
+  "texto": "SE depois do buraco vem outra letra, ENTÃO eu ponho..."
+ },
+ {
+  "id": "op_32yorq",
+  "texto": "a letra H"
+ },
+ {
+  "id": "op_3t3h",
+  "texto": "H"
+ },
+ {
+  "id": "op_y5tayq",
+  "texto": "Ficou PONTE! A placa já está no lugar."
+ },
+ {
+  "id": "op_yshw3f",
+  "texto": "Leia o que ficou escrito: é assim que a gente fala?"
+ },
+ {
+  "id": "op_1x7cc8i",
+  "texto": "Olhe a letra que vem depois do buraco desta palavra."
+ },
+ {
+  "id": "op_1m4kh7",
+  "texto": "Vem T — e antes de T não mora o M."
+ },
+ {
+  "id": "op_pwavi0",
+  "texto": "A regra do N está acesa: toque nela."
+ },
+ {
+  "id": "lt_f28_intro",
+  "texto": "Última conferência antes de imprimir tudo. Escolha a placa certa."
+ },
+ {
+  "id": "lt_f28_dica",
+  "texto": "Agora você já sabe olhar: veja a letra que vem depois."
+ },
+ {
+  "id": "op_1l1r82k",
+  "texto": "A placa da farmácia. Qual está certa?"
+ },
+ {
+  "id": "op_5w3itd",
+  "texto": "SENPRE ABERTA"
+ },
+ {
+  "id": "op_12s1seg",
+  "texto": "SEMPRE ABERTHA"
+ },
+ {
+  "id": "op_115bc2s",
+  "texto": "Fale sem-pre."
+ },
+ {
+  "id": "op_n9wcji",
+  "texto": "Depois do buraco vem P."
+ },
+ {
+  "id": "op_1hyew47",
+  "texto": "É SEMPRE ABERTA."
+ },
+ {
+  "id": "op_1ojwfos",
+  "texto": "A placa do mercado da esquina. Qual está certa?"
+ },
+ {
+  "id": "op_ruhaq1",
+  "texto": "MAMGA DO DIA"
+ },
+ {
+  "id": "op_1e8s2n",
+  "texto": "MANGUA DO DIA"
+ },
+ {
+  "id": "op_ix9upo",
+  "texto": "Fale man-ga."
+ },
+ {
+  "id": "op_1qxhp3s",
+  "texto": "Depois do buraco vem G, e não P nem B."
+ },
+ {
+  "id": "op_19wzu3l",
+  "texto": "É MANGA DO DIA."
+ },
+ {
+  "id": "op_zzduu6",
+  "texto": "A placa da loja de música. Qual está certa?"
+ },
+ {
+  "id": "op_1r3xxef",
+  "texto": "TANBOR E TRONBONE"
+ },
+ {
+  "id": "op_hsdgpm",
+  "texto": "TAMBOR E TROMBÔNE"
+ },
+ {
+  "id": "op_1hh9iq1",
+  "texto": "São duas palavras com a mesma família."
+ },
+ {
+  "id": "op_108hgq3",
+  "texto": "Nas duas, depois do buraco vem B."
+ },
+ {
+  "id": "op_wl4nt8",
+  "texto": "É TAMBOR E TROMBONE."
+ },
+ {
+  "id": "op_cq7vfj",
+  "texto": "A ÚLTIMA PROVA"
+ },
+ {
+  "id": "op_61u339",
+  "texto": "A gráfica pode imprimir!"
+ },
+ {
+  "id": "lt_f29_intro",
+  "texto": "Rápido: M ou N? Sem dica e sem pressa no fim — vá pelo que você já sabe."
+ },
+ {
+  "id": "lt_f29_dica",
+  "texto": "Olhe a letra que vem depois do buraco."
+ },
+ {
+  "id": "op_4efplk",
+  "texto": "LI_PO"
+ },
+ {
+  "id": "op_4fed3t",
+  "texto": "MU_DO"
+ },
+ {
+  "id": "op_7ti70b",
+  "texto": "SO_BRA"
+ },
+ {
+  "id": "op_48pa9y",
+  "texto": "DE_TE"
+ },
+ {
+  "id": "op_4jzz6k",
+  "texto": "TE_PO"
+ },
+ {
+  "id": "op_477ct5",
+  "texto": "BA_CO"
+ },
+ {
+  "id": "op_4gcqux",
+  "texto": "O_TEM"
+ },
+ {
+  "id": "lt_f30_intro",
+  "texto": "Ela escreveu para agradecer, mas o papel borrou em três lugares. Complete."
+ },
+ {
+  "id": "lt_f30_dica",
+  "texto": "Leia a frase inteira antes de escolher."
+ },
+ {
+  "id": "op_1vwawm5",
+  "texto": "A minha placa ficou pronta e eu"
+ },
+ {
+  "id": "op_2ufdwg",
+  "texto": "vou lembrar de vocês."
+ },
+ {
+  "id": "op_nnmpqa",
+  "texto": "Agora todo mundo acha a padaria, até quem vem da outra"
+ },
+ {
+  "id": "op_7h1mvk",
+  "texto": "do rio."
+ },
+ {
+  "id": "op_4hec2y",
+  "texto": "pomte"
+ },
+ {
+  "id": "op_5vxqxr",
+  "texto": "pontte"
+ },
+ {
+  "id": "op_1omwyty",
+  "texto": "O time do"
+ },
+ {
+  "id": "op_m38rr5",
+  "texto": "já veio comprar pão duas vezes."
+ },
+ {
+  "id": "op_18e37cg",
+  "texto": "Toque no pedaço que completa a frase da carta."
+ },
+ {
+  "id": "op_m88xhh",
+  "texto": "Leia a frase inteira antes de escolher."
+ },
+ {
+  "id": "op_1nqdptg",
+  "texto": "A carta ficou inteira!"
+ },
+ {
+  "id": "lt_f31_intro",
+  "texto": "Ache o par: de um lado a palavra, do outro o motivo da letra dela."
+ },
+ {
+  "id": "lt_f31_dica",
+  "texto": "Toque no alto-falante da carta para ouvir a palavra."
+ },
+ {
+  "id": "op_1eqw2gm",
+  "texto": "M, porque depois vem P"
+ },
+ {
+  "id": "op_1eqw2g8",
+  "texto": "M, porque depois vem B"
+ },
+ {
+  "id": "op_1u6t4df",
+  "texto": "lt_ombro"
+ },
+ {
+  "id": "op_bj7qjf",
+  "texto": "N, porque depois vem T"
+ },
+ {
+  "id": "op_1u7kd0q",
+  "texto": "lt_ponte"
+ },
+ {
+  "id": "op_bj7qj2",
+  "texto": "N, porque depois vem G"
+ },
+ {
+  "id": "op_1u55bag",
+  "texto": "lt_manga"
+ },
+ {
+  "id": "lt_f32_intro",
+  "texto": "O cliente ligou e falou o nome da loja. Ouça e toque na placa certa."
+ },
+ {
+  "id": "lt_f32_dica",
+  "texto": "Pode apertar o botão de ouvir quantas vezes quiser."
+ },
+ {
+  "id": "op_1iy1ayv",
+  "texto": "OUÇA E ACHE"
+ },
+ {
+  "id": "op_1n0d5p2",
+  "texto": "A PALAVRA É"
+ },
+ {
+  "id": "op_ct2s9s",
+  "texto": "Ouça a palavra e toque na placa dela."
+ },
+ {
+  "id": "op_h1nakb",
+  "texto": "Sem som no computador? A palavra está escrita aí em cima."
+ },
+ {
+  "id": "op_1j4vflb",
+  "texto": "Isso! CAMPO leva M porque depois vem P."
+ },
+ {
+  "id": "op_1fw1mjw",
+  "texto": "Aperte Ouvir de novo e diga a palavra junto, devagar."
+ },
+ {
+  "id": "op_11fv4wc",
+  "texto": "A palavra começa com CA e tem P no meio."
+ },
+ {
+  "id": "op_l16l8i",
+  "texto": "É esta: a placa do CAMPO de futebol."
+ },
+ {
+  "id": "op_xzcx2i",
+  "texto": "Isso! PONTE leva N porque depois vem T."
+ },
+ {
+  "id": "op_369v95",
+  "texto": "Aperte Ouvir de novo e escute o fim da palavra."
+ },
+ {
+  "id": "op_6jn4dx",
+  "texto": "Ela começa com PO e tem T no meio."
+ },
+ {
+  "id": "op_19jcexw",
+  "texto": "É esta: a placa da PONTE sobre o rio."
+ },
+ {
+  "id": "op_kpweua",
+  "texto": "OUVIR A PALAVRA"
+ },
+ {
+  "id": "op_17stbhp",
+  "texto": "Pode apertar quantas vezes quiser."
+ },
+ {
+  "id": "op_3da30t",
+  "texto": "Ouvir a palavra de novo"
+ },
+ {
+  "id": "lt_f33_intro",
+  "texto": "A maior placa da cidade, aquela que se vê de longe. Ela tem um erro só — e ele engana até adulto."
+ },
+ {
+  "id": "lt_f33_dica",
+  "texto": "Leia devagar. Uma das palavras tem o som do nariz e não é o que parece."
+ },
+ {
+  "id": "op_cegn13",
+  "texto": "MORRO DO AIPIM"
+ },
+ {
+  "id": "op_1sjhzmy",
+  "texto": "A PLACA DO MIRANTE"
+ },
+ {
+  "id": "op_1p0jgka",
+  "texto": "Ache o pedaço errado desta placa e conserte."
+ },
+ {
+  "id": "op_1jcps7p",
+  "texto": "MIRANTE"
+ },
+ {
+  "id": "op_1uy69xe",
+  "texto": "ABERTO"
+ },
+ {
+  "id": "op_3ho39",
+  "texto": "AO"
+ },
+ {
+  "id": "op_vzan11",
+  "texto": "É SEMPRE, com M. Repare que MIRANTE e VENTO estão certas com N — e agora você sabe dizer por quê."
+ },
+ {
+  "id": "op_6f3zqr",
+  "texto": "Três palavras aqui têm o som do nariz. Só uma está errada."
+ },
+ {
+  "id": "op_tm736a",
+  "texto": "Olhe a letra que vem depois em cada uma delas."
+ },
+ {
+  "id": "op_1tbuqf0",
+  "texto": "Era esta: marquei para você."
+ },
+ {
+  "id": "op_1oavwk3",
+  "texto": "E antes de P mora sempre a mesma letra."
+ },
+ {
+  "id": "op_120tnxz",
+  "texto": "Era SEMPRE."
+ },
+ {
+  "id": "op_v6cvft",
+  "texto": "Quem sabe dizer o porquê não esquece mais."
+ },
+ {
+  "id": "op_1e3fptx",
+  "texto": "Diga a palavra da figura e bata uma vez para cada pedaço."
+ },
+ {
+  "id": "op_1v8u0y8",
+  "texto": "Você completou todas as frases."
+ },
+ {
+  "id": "op_k1nt3v",
+  "texto": "Você achou e consertou 3 erros. Quem confere aprende duas vezes."
+ },
+ {
+  "id": "op_14yehap",
+  "texto": "Esta é a peça CONSERTE O ERRO."
+ },
+ {
+  "id": "op_1ih8zjc",
+  "texto": "Você montou letra por letra."
+ },
+ {
+  "id": "op_xnem5r",
+  "texto": "Ouça e escreva do jeitinho que você ouviu."
+ },
+ {
+  "id": "op_2485w8",
+  "texto": "Você escreveu ouvindo, letra por letra."
+ },
+ {
+  "id": "op_1bdbizs",
+  "texto": "Quem escreve a legenda é quem conta a história da foto. Hoje foi você."
+ },
+ {
+  "id": "op_97fzob",
+  "texto": "Você passou a mesma régua em todas as fichas."
+ },
+ {
+  "id": "op_18qcc73",
+  "texto": "Você achou 4 intrusos e disse por quê. Agora invente um: três coisas da sua casa e uma de fora."
+ },
+ {
+  "id": "op_1mn0r3",
+  "texto": "PO_TE é a de fora. E por quê ela não pertence ao grupo?"
+ },
+ {
+  "id": "op_c6ishi",
+  "texto": "SE_PRE é a de fora. E por quê ela não pertence ao grupo?"
+ },
+ {
+  "id": "op_o9d5pm",
+  "texto": "Ache a palavra e o desenho que combina."
+ },
+ {
+  "id": "op_dtsuch",
+  "texto": "Ouça: CAMPO. Ache o desenho que combina."
+ },
+ {
+  "id": "op_mmk0mq",
+  "texto": "Ouça: BOMBA. Ache o desenho que combina."
+ },
+ {
+  "id": "op_n4z0dy",
+  "texto": "Ouça: TAMBOR. Ache o desenho que combina."
+ },
+ {
+  "id": "op_hs7qg2",
+  "texto": "Ouça: LÂMPADA. Ache o desenho que combina."
+ },
+ {
+  "id": "op_rsqosg",
+  "texto": "Ouça: POMBA. Ache o desenho que combina."
+ },
+ {
+  "id": "op_1qh8kr4",
+  "texto": "Ouça: OMBRO. Ache o desenho que combina."
+ },
+ {
+  "id": "op_15k89h3",
+  "texto": "Ouça: PONTE. Ache o desenho que combina."
+ },
+ {
+  "id": "op_d9bkmt",
+  "texto": "Ouça: MANGA. Ache o desenho que combina."
+ },
+ {
+  "id": "op_17i6tyz",
+  "texto": "Abri uma para você: CAMPO. Ache o par dela."
+ },
+ {
+  "id": "op_iugdws",
+  "texto": "Abri uma para você: BOMBA. Ache o par dela."
+ },
+ {
+  "id": "op_1yi14gg",
+  "texto": "Abri uma para você: TAMBOR. Ache o par dela."
+ },
+ {
+  "id": "op_31blwc",
+  "texto": "Abri uma para você: LÂMPADA. Ache o par dela."
+ },
+ {
+  "id": "op_f7xc6y",
+  "texto": "Abri uma para você: POMBA. Ache o par dela."
+ },
+ {
+  "id": "op_yfxsei",
+  "texto": "Abri uma para você: OMBRO. Ache o par dela."
+ },
+ {
+  "id": "op_1a2up8x",
+  "texto": "Abri uma para você: PONTE. Ache o par dela."
+ },
+ {
+  "id": "op_1rzlikv",
+  "texto": "Abri uma para você: MANGA. Ache o par dela."
+ },
+ {
+  "id": "op_flxeze",
+  "texto": "Vou abrir este par: CAMPO — o campo de futebol do bairro."
+ },
+ {
+  "id": "op_h93bm2",
+  "texto": "Vou abrir este par: BOMBA — a bomba que puxa a água."
+ },
+ {
+  "id": "op_s8jpsj",
+  "texto": "Vou abrir este par: TAMBOR — o tambor da banda."
+ },
+ {
+  "id": "op_1phrd8g",
+  "texto": "Vou abrir este par: LÂMPADA — a lâmpada do poste."
+ },
+ {
+  "id": "op_1lfpvym",
+  "texto": "Vou abrir este par: POMBA — a pomba da praça."
+ },
+ {
+  "id": "op_qyzcw0",
+  "texto": "Vou abrir este par: CAMPO — M, porque depois vem P."
+ },
+ {
+  "id": "op_1yxizgh",
+  "texto": "Vou abrir este par: OMBRO — M, porque depois vem B."
+ },
+ {
+  "id": "op_5fxdgb",
+  "texto": "Vou abrir este par: PONTE — N, porque depois vem T."
+ },
+ {
+  "id": "op_o63gks",
+  "texto": "Vou abrir este par: MANGA — N, porque depois vem G."
+ },
+ {
+  "id": "op_10bmhpl",
+  "texto": "Cada vaga tem uma forma. Ponha a palavra que encaixa."
+ },
+ {
+  "id": "op_yqzdtt",
+  "texto": "Descubra quem está falando. Cada pista nova conta mais."
+ },
+ {
+  "id": "op_178lvnv",
+  "texto": "Esta é a peça RELÂMPAGO: sem dica no meio, sem castigo no fim."
+ },
+ {
+  "id": "lt_fim",
+  "texto": "Rua XV inteira consertada — e olhe o que aconteceu: você acertou a letra antes de saber a regra, só de escutar a palavra. Ficou faltando uma placa, a maior de todas, lá no alto do Morro do Aipim. O Pincel diz que essa tem uma palavra que engana até adulto. Quer ver qual é?"
+ },
+ {
+  "id": "op_7e0lnj",
+  "texto": "1. Lugar aberto onde o time do bairro joga bola."
+ },
+ {
+  "id": "op_e1gsgf",
+  "texto": "2. Máquina que puxa a água do poço."
+ },
+ {
+  "id": "op_1snreod",
+  "texto": "3. A parte do corpo onde a mochila se apoia."
+ },
+ {
+  "id": "op_1n3hx9v",
+  "texto": "A letra que vem agora está acesa."
+ },
+ {
+  "id": "op_tezs2o",
+  "texto": "A letra que vem agora está piscando no teclado."
+ },
+ {
+  "id": "op_1ymta9l",
+  "texto": "Achou as 5 palavras!"
+ },
+ {
+  "id": "op_335onp",
+  "texto": "Agora só passam as que pedem N no lugar do buraco.Toque nas que passam."
+ },
+ {
+  "id": "op_oxnk9k",
+  "texto": "Agora é rápido! São 6 perguntas do que você já viu, em 45 segundos."
+ },
+ {
+  "id": "op_1kfuvoa",
+  "texto": "Agora é rápido! São 8 perguntas do que você já viu, em 45 segundos."
+ },
+ {
+  "id": "op_1nwlm0s",
+  "texto": "As que ainda passam estão acesas: ."
+ },
+ {
+  "id": "op_khufin",
+  "texto": "BOMBA D'ÁGUA"
+ },
+ {
+  "id": "op_a7qjq8",
+  "texto": "BOMBA — era essa mesmo!"
+ },
+ {
+  "id": "op_1vutic9",
+  "texto": "BOMBA✓"
+ },
+ {
+  "id": "op_yvgzsf",
+  "texto": "CAMPO — era essa mesmo!"
+ },
+ {
+  "id": "op_1w88snc",
+  "texto": "CAMPO✓"
+ },
+ {
+  "id": "op_1w89cph",
+  "texto": "CANPO?"
+ },
+ {
+  "id": "op_1ejb0gl",
+  "texto": "CASA DO TAMBOR"
+ },
+ {
+  "id": "op_1w7y3su",
+  "texto": "CA_TO✓"
+ },
+ {
+  "id": "op_fa3mo2",
+  "texto": "Era esta! Eu coloco e você segue."
+ },
+ {
+  "id": "op_18exxt3",
+  "texto": "Era esta! Eu ponho e você segue."
+ },
+ {
+  "id": "op_1piywed",
+  "texto": "Já achou 1 de 5! Faltam as outras."
+ },
+ {
+  "id": "op_128v69y",
+  "texto": "Já achou 2 de 5! Faltam as outras."
+ },
+ {
+  "id": "op_eyrg5j",
+  "texto": "Já achou 3 de 5! Faltam as outras."
+ },
+ {
+  "id": "op_1qprs08",
+  "texto": "Já achou 4 de 5! Faltam as outras."
+ },
+ {
+  "id": "op_zdypyg",
+  "texto": "Leia cada pista, pense na palavra e ache ela na grade. Elas estão deitadas, em pé ou na diagonal."
+ },
+ {
+  "id": "op_15qik2b",
+  "texto": "LÂMPADA ACESA"
+ },
+ {
+  "id": "op_syuilm",
+  "texto": "MANGA DO DIA"
+ },
+ {
+  "id": "op_4n7090",
+  "texto": "OMBRO A OMBRO"
+ },
+ {
+  "id": "op_pt7y7y",
+  "texto": "OMBRO — era essa mesmo!"
+ },
+ {
+  "id": "op_4gn4a2",
+  "texto": "OMBRU"
+ },
+ {
+  "id": "op_4gnw05",
+  "texto": "ONBRO"
+ },
+ {
+  "id": "op_56x6vn",
+  "texto": "Oo / a"
+ },
+ {
+  "id": "op_5vme9b",
+  "texto": "PO_TE✓"
+ },
+ {
+  "id": "op_904lnw",
+  "texto": "Passe o marca-texto em as palavras ERRADAS do texto."
+ },
+ {
+  "id": "op_15w9ucp",
+  "texto": "Primeiro toque na ficha lá de cima. Depois toque na gaveta."
+ },
+ {
+  "id": "op_ugiqk0",
+  "texto": "Quem vai pintar hoje?"
+ },
+ {
+  "id": "op_13x3cu8",
+  "texto": "SEMPRE ABERTA"
+ },
+ {
+  "id": "op_12rj1ms",
+  "texto": "SEMPRE✓"
+ },
+ {
+  "id": "op_12s890x",
+  "texto": "SENPRE?"
+ },
+ {
+  "id": "op_17fw48t",
+  "texto": "SOMBRA FRESCA"
+ },
+ {
+  "id": "op_142jw56",
+  "texto": "Só passam as palavras escritas certas.Toque nas que passam."
+ },
+ {
+  "id": "op_hsacyd",
+  "texto": "TAMBOR E TROMBONE"
+ },
+ {
+  "id": "op_1ifqzag",
+  "texto": "TEMPO BOM"
+ },
+ {
+  "id": "op_9kd29h",
+  "texto": "VE_TO✓"
+ },
+ {
+  "id": "op_8psdxf",
+  "texto": "Você respondeu de cabeça e acertou 6 de 6."
+ },
+ {
+  "id": "op_1fflo3r",
+  "texto": "Você respondeu de cabeça e acertou 8 de 8."
+ },
+ {
+  "id": "op_ro6mg1",
+  "texto": "Vou ditar de novo, com calma. Diga baixinho: CAM-PO."
+ },
+ {
+  "id": "op_9h3vw9",
+  "texto": "Vou ditar de novo, com calma. Diga baixinho: PON-TE. Olhe a letra depois do buraco."
+ },
+ {
+  "id": "op_1ma4t81",
+  "texto": "Vou ditar de novo, com calma. São três pedaços: BOM-BEI-RO."
+ },
+ {
+  "id": "op_1jahddl",
+  "texto": "abertocomo é"
+ },
+ {
+  "id": "op_o5qias",
+  "texto": "camponome"
+ },
+ {
+  "id": "op_jl5ord",
+  "texto": "semprequando"
+ },
+ {
+  "id": "op_1ptfg56",
+  "texto": "É BOMBEIRO mesmo! Olhe como ela se escreve."
+ },
+ {
+  "id": "op_1jgjo0z",
+  "texto": "É CAMPEÃO mesmo! Olhe como ela se escreve."
+ },
+ {
+  "id": "op_1pe3y11",
+  "texto": "É TAMBÉM mesmo! Olhe como ela se escreve."
+ },
+ {
+  "id": "op_1crmeil",
+  "texto": "As que ainda passam estão com a moldura acesa: ."
+ }
+]
